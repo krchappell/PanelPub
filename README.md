@@ -1,2 +1,2 @@
 # PubTator
-For leveraging PubTator and LitVar to retrieve genetic annotations from PubMed articles
+Leveraging PubTator 3.0 and LitVar 2.0 to retrieve genetic annotations from PubMed articles.
