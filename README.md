@@ -4,7 +4,7 @@ Leveraging PubTator 3.0 (https://www.ncbi.nlm.nih.gov/research/pubtator3/) and L
 ## Data sources
 ### Gene synonyms
 1. Go to https://www.ncbi.nlm.nih.gov/datasets/gene/taxon/9606/
-2. Select columns: 'Gene ID', 'Symbol', 'Synonyms'
+2. Select columns 'Gene ID', 'Symbol', 'Synonyms'
 3. Check the box next to 'Gene ID'; all rows should be checked
 4. Click Download, Download Table, then Download
 
