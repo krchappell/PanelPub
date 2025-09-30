@@ -12,7 +12,7 @@ Leveraging PubTator 3.0 (https://www.ncbi.nlm.nih.gov/research/pubtator3/) and L
 1. Download ortholog data from https://ftp.ncbi.nih.gov/gene/DATA/gene_orthologs.gz
 2. In R, run the following to have human genes in one column (hs_gene) and non-human ortholog info in the others (ortholog_gene & ortholog_tax)
 
-```
+```R
 ortholog_df <- fread("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/gene_orthologs")
 ortho <- ortholog_df %>%
   rename(tax_id = `#tax_id`) %>%
