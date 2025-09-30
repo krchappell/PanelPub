@@ -9,7 +9,7 @@ Leveraging PubTator 3.0 (https://www.ncbi.nlm.nih.gov/research/pubtator3/) and L
 4. Click Download, Download Table, then Download
 
 ### Non-human orthologs
-1. Download ortholog data from https://ftp.ncbi.nih.gov/gene/DATA/gene_orthologs.gz
+Download ortholog data from https://ftp.ncbi.nih.gov/gene/DATA/gene_orthologs.gz
 
 ### GO-BP gene sets
-1. Download Gene Ontology - Biological Process data from https://www.gsea-msigdb.org/gsea/msigdb/download_file.jsp?filePath=/msigdb/release/2025.1.Hs/c5.all.v2025.1.Hs.symbols.gmt
+Download Gene Ontology - Biological Process data from https://www.gsea-msigdb.org/gsea/msigdb/download_file.jsp?filePath=/msigdb/release/2025.1.Hs/c5.all.v2025.1.Hs.symbols.gmt
