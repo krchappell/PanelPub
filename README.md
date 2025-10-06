@@ -1,6 +1,10 @@
 # PubTator
 Leveraging PubTator 3.0 (https://www.ncbi.nlm.nih.gov/research/pubtator3/) and LitVar 2.0 (https://www.ncbi.nlm.nih.gov/research/litvar2/) to retrieve genetic annotations from PubMed articles and comparing them to virtual gene panels of PanelApp (https://panelapp-aus.org/ and https://panelapp.genomicsengland.co.uk/).
 
+<p align="center">
+  <img width="750" height="563" alt="gene-panel-PubTator_v2" src="https://github.com/user-attachments/assets/1b841249-67e9-454f-ab96-40c3ed798432" />
+</p>
+
 ## Data sources
 ### Gene synonyms
 1. Go to https://www.ncbi.nlm.nih.gov/datasets/gene/taxon/9606/
