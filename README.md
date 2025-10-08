@@ -1,5 +1,5 @@
 # PubTator
-Leveraging PubTator 3.0 (https://www.ncbi.nlm.nih.gov/research/pubtator3/) and LitVar 2.0 (https://www.ncbi.nlm.nih.gov/research/litvar2/) to retrieve genetic annotations from PubMed articles and comparing them to virtual gene panels of PanelApp (https://panelapp-aus.org/ and https://panelapp.genomicsengland.co.uk/).
+Leveraging PubTator 3.0 (https://www.ncbi.nlm.nih.gov/research/pubtator3/) and LitVar 2.0 (https://www.ncbi.nlm.nih.gov/research/litvar2/) to retrieve genetic annotations from PubMed articles and compare them to virtual gene panels of PanelApp (https://panelapp-aus.org/ and https://panelapp.genomicsengland.co.uk/).
 
 <p align="center">
   <img width="750" height="563" alt="gene-panel-PubTator_v2" src="https://github.com/user-attachments/assets/1b841249-67e9-454f-ab96-40c3ed798432" />
@@ -17,7 +17,7 @@ Leveraging PubTator 3.0 (https://www.ncbi.nlm.nih.gov/research/pubtator3/) and L
 2. In R, run the following to have human genes in one column (hs_gene) and non-human ortholog info in the others (ortholog_gene & ortholog_tax)
 
 ```R
-ortholog_df <- fread("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/gene_orthologs")
+ortholog_df <- fread("path/to/gene_orthologs")
 ortho <- ortholog_df %>%
   rename(tax_id = `#tax_id`) %>%
   filter(tax_id == 9606 | Other_tax_id == 9606) %>%
@@ -26,7 +26,7 @@ ortho <- ortholog_df %>%
          ortholog_gene = if_else(tax_id == 9606, Other_GeneID, GeneID),
          ortholog_tax = if_else(tax_id == 9606, Other_tax_id, tax_id)) %>%
   select(hs_gene, ortholog_tax, ortholog_gene)
-fwrite(ortho, "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/gene_orthologs_MOD.txt", sep = "\t")
+fwrite(ortho, "path/to/gene_orthologs_MOD.txt", sep = "\t")
 ```
 
 ### GO-BP gene sets
