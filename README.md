@@ -17,6 +17,8 @@ Leveraging PubTator 3.0 (https://www.ncbi.nlm.nih.gov/research/pubtator3/) and L
 2. In R, run the following to have human genes in one column (hs_gene) and non-human ortholog info in the others (ortholog_gene & ortholog_tax)
 
 ```R
+library(data.table)
+library(dplyr)
 ortholog_df <- fread("path/to/gene_orthologs")
 ortho <- ortholog_df %>%
   rename(tax_id = `#tax_id`) %>%
