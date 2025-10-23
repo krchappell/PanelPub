@@ -180,7 +180,7 @@ pubtator_function_JSON_UPDATE <- function (x) {
               Relations = relat))
 }
 
-pubtator_to_table_UPDATE <- function (x, file = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PT_Master.txt", write = TRUE) {
+pubtator_to_table_UPDATE <- function (x, file = "path/to/PT_Master.txt", write = TRUE) {
 
   # if wanting to write to file
   if (write) {
@@ -222,7 +222,7 @@ pubtator_to_table_UPDATE <- function (x, file = "C:/Users/kenny/Desktop/MOODS/pr
 }
 
 PMIDs_pubtator_query <- function (q, date = "today", write = TRUE, type = "genetic", force = FALSE,
-                                  master = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/RE_Master.txt") {
+                                  master = "path/to/RE_Master.txt") {
   lapply(c("httr", "jsonlite"), require, character.only = TRUE)
   
   # if wanting to write to file
@@ -371,7 +371,7 @@ litvaR <- function(x, fn = c("s", "q", "p")) {
   }
 }
 
-litvaR_to_table <- function (x, file = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/LV_Master.txt") {
+litvaR_to_table <- function (x, file = "path/to/LV_Master.txt") {
 
   if (!endsWith(file, ".txt")) {
     message("Please make file '.txt'")
@@ -401,7 +401,7 @@ find_in_master <- function(x, file = NULL, master_type = "PT") {
   
   if (master_type == "PT") {
     if (is.null(file)) {
-      master_file <- "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PT_Master.txt"
+      master_file <- "path/to/PT_Master.txt"
     } else {
       master_file = file
     }
@@ -412,7 +412,7 @@ find_in_master <- function(x, file = NULL, master_type = "PT") {
     
   } else if (master_type == "LV") {
     if (is.null(file)) {
-      master_file <- "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/LV_Master.txt"
+      master_file <- "path/to/LV_Master.txt"
     } else {
       master_file = file
     }
@@ -423,7 +423,7 @@ find_in_master <- function(x, file = NULL, master_type = "PT") {
     
   } else if (master_type == "RE") {
     if (is.null(file)) {
-      master_file <- "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/RE_Master.txt"
+      master_file <- "path/to/RE_Master.txt"
     } else {
       master_file = file
     }
@@ -444,9 +444,7 @@ find_in_master <- function(x, file = NULL, master_type = "PT") {
   }
 }
 
-annotatoR <- function(ids, chunk_size_pt = 50, chunk_start_pt = 1, chunk_size_lv = 50, chunk_start_lv = 1,
-                      pubtator = TRUE, litvar = TRUE, 
-                      pt_master = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PT_Master.txt") {
+annotatoR <- function(ids, chunk_size_pt = 50, chunk_start_pt = 1, chunk_size_lv = 50, chunk_start_lv = 1, pubtator = TRUE, litvar = TRUE, pt_master = "path/to/PT_Master.txt") {
   lapply(c("data.table", "dplyr", "tidyr"), require, character.only = TRUE)
   
   if (pubtator) {
@@ -500,9 +498,9 @@ annotatoR <- function(ids, chunk_size_pt = 50, chunk_start_pt = 1, chunk_size_lv
 }
 
 gene_countR <- function(pubtator, ortholog = TRUE, variant = TRUE, pa = NULL, pa_id = NULL,
-                        hs_genes = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/ncbi_dataset_SYN.tsv", 
-                        ortholog_db = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/gene_orthologs_MOD.txt",
-                        variant_db = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/LV_Master.txt") {
+                        hs_genes = "path/to/ncbi_dataset_SYN.tsv", 
+                        ortholog_db = "path/to/gene_orthologs_MOD.txt",
+                        variant_db = "path/to/LV_Master.txt") {
   # load dependencies
   lapply(c("data.table", "dplyr", "tidyr"), require, character.only = TRUE)
   
