@@ -1,24 +1,9 @@
 # DATA EXTRACTION ####
-## NCBI orthologs ####
-
-# ortholog data from https://ftp.ncbi.nih.gov/gene/DATA/gene_orthologs.gz
-ortholog_df <- fread("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/gene_orthologs")
-
-ortho <- ortholog_df %>%
-  rename(tax_id = `#tax_id`) %>%
-  filter(tax_id == 9606 | Other_tax_id == 9606) %>%
-  mutate(hs_tax = if_else(tax_id == 9606, tax_id, Other_tax_id),
-         hs_gene = if_else(tax_id == 9606, GeneID, Other_GeneID),
-         ortholog_gene = if_else(tax_id == 9606, Other_GeneID, GeneID),
-         ortholog_tax = if_else(tax_id == 9606, Other_tax_id, tax_id)) %>% 
-  select(hs_gene, ortholog_tax, ortholog_gene)
-
-fwrite(ortho, "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/gene_orthologs_MOD.txt", sep = "\t")
-
+source(PubPanel_functions.R)
 
 ## PanelApp England & Australia ####
 
-# England
+# PanelApp Genomics England
 panelapp_ids_eng <- PanelIDs_PanelApp("ENG")
 panelapp_genes_eng <- lapply(panelapp_ids_eng, PanelGenes_PanelApp, panelapp = "ENG")
 panelapp_genes_eng_df <- data.frame(rbindlist(panelapp_genes_eng, fill = TRUE))
@@ -31,15 +16,12 @@ panelapp_genes_eng_df_tabreplace <- panelapp_genes_eng_df_tabreplace %>%
                              str_extract(panelapp_genes_eng_df$evidence, pattern = "Expert Review [A-Za-z]+"))) %>%
   mutate(color = if_else(is.na(color), "Red", color),
                 color = case_when(color == "green" ~ "Green",
-                                         color == "amber" ~ "Amber",
-                                         color == "red" ~ "Red"))
+                                  color == "amber" ~ "Amber",
+                                  color == "red" ~ "Red"))
 
-date_PA <- "25-06-2025"
-fwrite(panelapp_genes_eng_df_tabreplace,
-                   file = paste0("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelAppEngland_panels_", date_PA, ".txt"),
-                   sep = "\t")
+fwrite(panelapp_genes_eng_df_tabreplace, file = "path/to/PanelAppEngland_panels.txt"), sep = "\t")
 
-# Australia
+# PanelApp Australia
 panelapp_ids_aus <- PanelIDs_PanelApp("AUS")
 panelapp_genes_aus <- lapply(panelapp_ids_aus, PanelGenes_PanelApp, panelapp = "AUS")
 panelapp_genes_aus_df <- data.frame(rbindlist(panelapp_genes_aus, fill = TRUE))
@@ -52,28 +34,19 @@ panelapp_genes_aus_df_tabreplace <- panelapp_genes_aus_df_tabreplace %>%
                              str_extract(panelapp_genes_aus_df$evidence, pattern = "Expert Review [A-Za-z]+"))) %>%
   mutate(color = if_else(is.na(color), "Red", color),
                 color = case_when(color == "green" ~ "Green",
-                                         color == "amber" ~ "Amber",
-                                         color == "red" ~ "Red"))
+                                  color == "amber" ~ "Amber",
+                                  color == "red" ~ "Red"))
 
-date_PA <- "25-06-2025"
-fwrite(panelapp_genes_aus_df_tabreplace,
-                   file = paste0("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelAppAustralia_panels_", date_PA, ".txt"),
-                   sep = "\t")
+fwrite(panelapp_genes_aus_df_tabreplace, file = "path/to/PanelAppAustralia_panels.txt"), sep = "\t")
 
 # Combined
-date_PA <- "25-06-2025"
-panel_app_eng <- fread(paste0("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelAppEngland_panels_", date_PA, ".txt"),
-                                   sep = "\t")
-panel_app_aus <- fread(paste0("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelAppAustralia_panels_", date_PA, ".txt"),
-                                   sep = "\t")
-panel_app_all <- panel_app_eng %>%
+panel_app_all <- panelapp_genes_eng_df_tabreplace %>%
   mutate(panelapp = "ENG") %>%
-  bind_rows(panel_app_aus %>%
-                     mutate(panelapp = "AUS"))
+  bind_rows(panelapp_genes_aus_df_tabreplace %>%
+              mutate(panelapp = "AUS"))
 dim(panel_app_all)
 
-fwrite(panel_app_all, sep = "\t",
-       file = paste0("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelAppENG-AUS_panels_", date_PA, ".txt"))
+fwrite(panel_app_all, sep = "\t", file = "path/to/PanelAppENG-AUS_panels.txt"))
 
 panel_app_clean <- panel_app_all %>%
   mutate(entry_id = 1:nrow(panel_app_all)) %>%
@@ -87,77 +60,78 @@ c <- nrow(panel_app_clean[panel_app_clean$publications == "", ])
 sum(a, b, c)
 
 # write non-PMID publications for manual PMID curation
-panel_app_clean %>%
+panelapp_key <- panel_app_clean %>%
   mutate(publications2 = gsub("PMID: |PMID:|PMID|PMIDS: |PMIS: |PubMed: |PubMed:|PubMed ", "", publications),
-                publications2 = gsub("^([0-9]+).*", "\\1", publications2),
-                publications2 = gsub("[\\[(](?=\\d)", "", publications2, perl = TRUE),
-                publications2 = gsub("(?<=\\d)[\\])]", "", publications2, perl = TRUE)) %>%
+         publications2 = gsub("^([0-9]+).*", "\\1", publications2),
+         publications2 = gsub("[\\[(](?=\\d)", "", publications2, perl = TRUE),
+         publications2 = gsub("(?<=\\d)[\\])]", "", publications2, perl = TRUE)) %>%
   mutate(publications2 = str_trim(publications2)) %>%
   filter(grepl("[^0-9]", publications2) & publications2 != "") %>%
   group_by(publications2) %>%
   summarize(entries = paste_unique(entry_id)) %>%
-  arrange(publications2) %>%
-  fwrite(file = "C:/Users/kenny/Desktop/PanelApp_Key.txt", sep = "\t")
+  arrange(publications2)
+
+fwrite(panelapp_key, file = "path/to/PanelApp_Key.txt", sep = "\t")
 
 # clean up PMIDs
 panel_app_all_replace <- panel_app_clean %>%
   mutate(publications2 = gsub("PMID: |PMID:|PMID|PMIDS: |PMIS: |PubMed: |PubMed:|PubMed ", "", publications),
-                publications2 = gsub("^([0-9]+).*", "\\1", publications2),
-                publications2 = gsub("[\\[(](?=\\d)", "", publications2, perl = TRUE),
-                publications2 = gsub("(?<=\\d)[\\])]", "", publications2, perl = TRUE)) %>%
+         publications2 = gsub("^([0-9]+).*", "\\1", publications2),
+         publications2 = gsub("[\\[(](?=\\d)", "", publications2, perl = TRUE),
+         publications2 = gsub("(?<=\\d)[\\])]", "", publications2, perl = TRUE)) %>%
   mutate(publications2 = str_trim(publications2))
 
 # read in manually curated key and join PMIDs
-key <- fread("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelApp_Key_02-07-2025.txt", sep = "\t")
+key <- fread("path/to/PanelApp_Key.txt", sep = "\t")
 key_long <- key %>%
   separate_longer_delim(cols = "entries", delim = ";") %>%
   group_by(entries) %>%
   summarize(PMID = paste_unique(PMID)) %>%
   mutate(PMID = gsub("^NA;", "", PMID),
-                PMID = gsub(";NA$", "", PMID),
-                PMID = gsub(";NA;", "", PMID))
+         PMID = gsub(";NA$", "", PMID),
+         PMID = gsub(";NA;", "", PMID))
 
 # fix PMIDs with errors (links from PanelApp pages)
 panel_app_all_replace_join <- panel_app_all_replace %>%
   left_join(key_long %>%
-                     separate_longer_delim(entries, delim = ";") %>%
-                     mutate(entries = as.numeric(entries)),
-                   by = join_by(entry_id == entries)) %>%
+              separate_longer_delim(entries, delim = ";") %>%
+              mutate(entries = as.numeric(entries)),
+            by = join_by(entry_id == entries)) %>%
   mutate(publications2 = if_else(is.na(PMID), publications2, PMID)) %>%
   select(-PMID) %>%
   mutate(publications2 = if_else(publications2 == "None", NA, publications2),
-                publications2 = str_replace(publications2, "\n", ";"),
-                # 29721915 redirected to 30740741 (duplicate)
-                # 31270415 is a abstract collection from the 51st European Society of Human Genetics Conference
-                # 35234647 redirected to 35770779 (duplicate)
-                publications2 = if_else(publications2 == "29721915", "30740741", publications2),
-                publications2 = if_else(publications2 == "35234647", "35770779", publications2),
+         publications2 = str_replace(publications2, "\n", ";"),
+         # 29721915 redirected to 30740741 (duplicate)
+         # 31270415 is a abstract collection from the 51st European Society of Human Genetics Conference
+         # 35234647 redirected to 35770779 (duplicate)
+         publications2 = if_else(publications2 == "29721915", "30740741", publications2),
+         publications2 = if_else(publications2 == "35234647", "35770779", publications2),
                 
-                publications2 = if_else(publications2 == "0587156", "30587156", publications2),
-                publications2 = if_else(publications2 == "0714330", "30714330", publications2),
-                publications2 = if_else(publications2 == "0932188", "10932188", publications2),
-                publications2 = if_else(publications2 == "0961548", "30961548", publications2),
-                publications2 = if_else(publications2 == "0980531", "10980531", publications2),
+         publications2 = if_else(publications2 == "0587156", "30587156", publications2),
+         publications2 = if_else(publications2 == "0714330", "30714330", publications2),
+         publications2 = if_else(publications2 == "0932188", "10932188", publications2),
+         publications2 = if_else(publications2 == "0961548", "30961548", publications2),
+         publications2 = if_else(publications2 == "0980531", "10980531", publications2),
                 
-                publications2 = if_else(publications2 == "104693112", "10469312", publications2),
-                publications2 = if_else(publications2 == "188806880", "18806880", publications2),
-                publications2 = if_else(publications2 == "201788319", "20178831", publications2),
-                publications2 = if_else(publications2 == "2194867118000911", "21948671;18000911", publications2),
-                publications2 = if_else(publications2 == "239975631", "23997563", publications2),
-                publications2 = if_else(publications2 == "240396609", "24039609", publications2),
-                publications2 = if_else(publications2 == "251920460", "25192046", publications2),
-                publications2 = if_else(publications2 == "2552958229174527", "25529582;29174527", publications2),
-                publications2 = if_else(publications2 == "300068544", "30068544", publications2),
-                publications2 = if_else(publications2 == "32232222962", "32222962", publications2),
-                publications2 = if_else(publications2 == "328840387", "32884387", publications2),
-                publications2 = if_else(publications2 == "329228291", "32928291", publications2),
-                publications2 = if_else(publications2 == "0", "NA", publications2), 
-                publications2 = if_else(publications2 == "NA" | publications2 == "", NA, publications2),
-                publications2 = gsub("^NA;", "", publications2),
-                publications2 = gsub(";NA$", "", publications2),
-                publications2 = gsub(";NA;", "", publications2),
-                color = gsub("Expert Review ", "", str_extract(panel_app_all_replace$evidence, pattern = "Expert Review [A-Za-z]+")),
-                color = if_else(is.na(color), "Red", color)) %>%
+         publications2 = if_else(publications2 == "104693112", "10469312", publications2),
+         publications2 = if_else(publications2 == "188806880", "18806880", publications2),
+         publications2 = if_else(publications2 == "201788319", "20178831", publications2),
+         publications2 = if_else(publications2 == "2194867118000911", "21948671;18000911", publications2),
+         publications2 = if_else(publications2 == "239975631", "23997563", publications2),
+         publications2 = if_else(publications2 == "240396609", "24039609", publications2),
+         publications2 = if_else(publications2 == "251920460", "25192046", publications2),
+         publications2 = if_else(publications2 == "2552958229174527", "25529582;29174527", publications2),
+         publications2 = if_else(publications2 == "300068544", "30068544", publications2),
+         publications2 = if_else(publications2 == "32232222962", "32222962", publications2),
+         publications2 = if_else(publications2 == "328840387", "32884387", publications2),
+         publications2 = if_else(publications2 == "329228291", "32928291", publications2),
+         publications2 = if_else(publications2 == "0", "NA", publications2), 
+         publications2 = if_else(publications2 == "NA" | publications2 == "", NA, publications2),
+         publications2 = gsub("^NA;", "", publications2),
+         publications2 = gsub(";NA$", "", publications2),
+         publications2 = gsub(";NA;", "", publications2),
+         color = gsub("Expert Review ", "", str_extract(panel_app_all_replace$evidence, pattern = "Expert Review [A-Za-z]+")),
+         color = if_else(is.na(color), "Red", color)) %>%
   group_by(entry_id) %>%
   summarize(across(.cols = everything(), paste_unique)) %>%
   select(-entry_id)
@@ -171,28 +145,22 @@ dim(panel_app_all_replace_join)
 panel_app_all_replace_join <- panel_app_all_replace_join %>%
   mutate(color = if_else(color == "green", "Green", color))
 
-fwrite(panel_app_all_replace_join, sep = "\t",
-       file = paste0("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelAppENG-AUS_panels_PUB-EDIT_", date_PA, ".txt"))
-
 # remove 'Removed' genes and duplicates
 panel_app_all_dupe <- panel_app_all_replace_join %>%
   filter(color != "Removed") %>%
   group_by(panelapp, panel, id, entity_name) %>%
   summarize(across(everything(), paste_unique), .groups = "drop") 
   
-fwrite(panel_app_all_dupe, sep = "\t",
-       file = paste0("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelAppENG-AUS_panels_PUB-EDIT_NO-DUPLICATES_", date_PA, ".txt"))
+fwrite(panel_app_all_dupe, sep = "\t", file = "path/to/PanelAppENG-AUS_panels_PUB-EDIT_NO-DUPLICATES.txt"))
 
 ## PubMed Query 1 ####
 ### read in data ####
-panel_app_all <- fread("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelAppENG-AUS_panels_PUB-EDIT_NO-DUPLICATES_25-06-2025.txt", sep = "\t")
+panel_app_all <- fread("path/to/PanelAppENG-AUS_panels_PUB-EDIT_NO-DUPLICATES.txt", sep = "\t")
 panel_app_eng <- panel_app_all[panel_app_all$panelapp == "ENG", ]
 panel_app_aus <- panel_app_all[panel_app_all$panelapp == "AUS", ]
 
-pmids_1 <- list.files(path = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/",
-                      pattern = "_1_PMIDs.txt", full.names = TRUE)
-names(pmids_1) <- substr(list.files(path = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/",
-                                    pattern = "_1_PMIDs.txt"), 1, 3)
+pmids_1 <- list.files(path = "path/to/", pattern = "_1_PMIDs.txt", full.names = TRUE)
+names(pmids_1) <- substr(list.files(path = "path/to/", pattern = "_1_PMIDs.txt"), 1, 3)
 
 pmids_1_df <- rbindlist(lapply(pmids_1, fread, col.names = "PMID"), idcol = "disease")
 pmids_all <- unique(pmids_1_df$PMID)
@@ -201,7 +169,7 @@ length(pmids_all)
 ### PubTator & LitVar ####
 annotatoR(ids = pmids_all)
 
-pt_df_all <- fread("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PT_Master.txt", sep = "\t") %>%
+pt_df_all <- fread("path/to/PT_Master.txt", sep = "\t") %>%
   filter(PMID %in% as.character(pmids_all))
 pt_df_all$PMID <- as.numeric(pt_df_all$PMID)
 
@@ -265,18 +233,18 @@ stats_list <- stats_list %>%
                              !grepl("CHH", comp) ~ disease)) %>%
   select(-comp)
 
-fwrite(stats_list, sep = "\t", "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/Query1_stats_df_08-10-2025.txt")
+fwrite(stats_list, sep = "\t", "path/to/paper/Query1_stats_df.txt")
 
 # genes
 genes_list <- rbindlist(lapply(gene_counts, function(x) x$gene_count), idcol = "comp")
 genes_list <- genes_list %>%
   separate_wider_delim(cols = comp, delim = "_", names = c("disease", "panelapp_instance"), cols_remove = FALSE) %>%
   mutate(disease = case_when(grepl("CHH_ENG", comp) ~ "CHH",
-                                           grepl("CHH_AUS", comp) ~ "CHH_GMS",
-                                           !grepl("CHH", comp) ~ disease)) %>%
+                             grepl("CHH_AUS", comp) ~ "CHH_GMS",
+                             !grepl("CHH", comp) ~ disease)) %>%
   select(-comp)
 
-fwrite(genes_list, sep = "\t", "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/Query1_genes_df_08-10-2025.txt")
+fwrite(genes_list, sep = "\t", "path/to/paper/Query1_genes_df.txt")
 
 # missing
 missing_list <- rbindlist(lapply(gene_counts, function(x) list(missing = x$missing)), 
@@ -287,7 +255,7 @@ missing_list <- missing_list %>%
   separate_wider_delim(cols = comp, delim = "_", names = c("disease", "panelapp")) %>%
   mutate(entity_id = paste0(disease, "_", missing))
 
-fwrite(missing_list, sep = "\t", "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/Query1_missing_df_08-10-2025.txt")
+fwrite(missing_list, sep = "\t", "path/to/paper/Query1_missing_df.txt")
 
 ### missing genes ####
 ## PanelApp PMIDs to file
@@ -305,10 +273,10 @@ pa_genes_pmids <- pa_genes_all %>%
   unique()
 
 # write PMIDs of PanelApp publications from missing genes for MeSH annotating 
-fwrite(list(pa_genes_pmids), "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelApp_Publications_PMIDs.txt")
+fwrite(list(pa_genes_pmids), "path/to/PanelApp_Publications_PMIDs.txt")
 
 ## join MeSH
-lines <- readLines("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelApp_Publications_PMIDs_MeSH.txt")
+lines <- readLines("path/to/PanelApp_Publications_PMIDs_MeSH.txt")
 
 pmid <- NULL
 mh_list <- list()
@@ -347,8 +315,7 @@ pa_genes_all_mesh <- pa_genes_all %>%
                              id %in% c(199, 548) ~ "TKD")) %>%
   mutate(entity_id = paste0(disease, "_", entity_name))
 
-fwrite(pa_genes_all_mesh, sep = "\t",
-       "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/PanelApp_Publications_PMID_MeSH.txt")
+fwrite(pa_genes_all_mesh, sep = "\t", "path/to/paper/PanelApp_Publications_PMID_MeSH.txt")
 
 ## missing gene MeSH
 pa_genes_all_mesh_missing <- pa_genes_all_mesh %>% 
@@ -375,7 +342,7 @@ pa_genes_mesh_phenos$PMIDs <- gsub("^;", "", pa_genes_mesh_phenos$PMIDs)
 pa_genes_mesh_phenos$MHs <- gsub("NA", "", pa_genes_mesh_phenos$MHs)
 pa_genes_mesh_phenos$MHs <- gsub("^;", "", pa_genes_mesh_phenos$MHs)
 
-fwrite(pa_genes_mesh_phenos, sep = "\t", file = "C:/Users/Kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/Query1_missing_pheno-MH.txt")
+fwrite(pa_genes_mesh_phenos, sep = "\t", file = "path/to/paper/Query1_missing_pheno-MH.txt")
 
 ## PanelApp phenotypes
 pa_genes_all <- pa_genes_all %>%
@@ -390,19 +357,16 @@ pa_genes_all %>%
   arrange(disease) %>%
   distinct(disease, phenotypes) %>%
   mutate(mesh = NA) %>%
-  fwrite("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelApp_phenotypes-to-MeSH.txt", sep = "\t")
+  fwrite("path/to/PanelApp_phenotypes-to-MeSH.txt", sep = "\t")
 
 ## PubMed Query 2 ####
 ### read in data ####
-panel_app_all <- fread("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelAppENG-AUS_panels_PUB-EDIT_NO-DUPLICATES_25-06-2025.txt",
-                                   sep = "\t")
+panel_app_all <- fread("path/to/PanelAppENG-AUS_panels_PUB-EDIT_NO-DUPLICATES.txt", sep = "\t")
 panel_app_eng <- panel_app_all[panel_app_all$panelapp == "ENG", ]
 panel_app_aus <- panel_app_all[panel_app_all$panelapp == "AUS", ]
 
-pmids_2 <- list.files(path = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/",
-                      pattern = "_v2_PMIDs.txt", full.names = TRUE)
-names(pmids_2) <- substr(list.files(path = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/",
-                                    pattern = "_v2_PMIDs.txt"), 1, 3)
+pmids_2 <- list.files(path = "path/to/", pattern = "_v2_PMIDs.txt", full.names = TRUE)
+names(pmids_2) <- substr(list.files(path = "path/to/", pattern = "_v2_PMIDs.txt"), 1, 3)
 
 pmids_2_df <- rbindlist(lapply(pmids_2, fread, col.names = "PMID"), idcol = "disease")
 pmids_2_all <- unique(pmids_2_df$PMID)
@@ -411,7 +375,7 @@ length(pmids_2_all)
 ### PubTator & LitVar ####
 annotatoR(ids = pmids_2_all)
 
-pt_df_all <- fread("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PT_Master.txt", sep = "\t") %>%
+pt_df_all <- fread("path/to/PT_Master.txt", sep = "\t") %>%
   filter(PMID %in% pmids_2_all) %>%
   mutate(PMID = as.integer(PMID))
 
@@ -471,22 +435,22 @@ stats_list_2 <- rbindlist(lapply(gene_counts_2, function(x) x$stats), idcol = "c
 stats_list_2 <- stats_list_2 %>%
   separate_wider_delim(cols = comp, delim = "_", names = c("disease", "panelapp"), cols_remove = FALSE) %>%
   mutate(disease = case_when(grepl("CHH_ENG", comp) ~ "CHH",
-                                           grepl("CHH_AUS", comp) ~ "CHH_GMS",
-                                           !grepl("CHH", comp) ~ disease)) %>%
+                             grepl("CHH_AUS", comp) ~ "CHH_GMS",
+                             !grepl("CHH", comp) ~ disease)) %>%
   select(-comp)
 
-fwrite(stats_list_2, sep = "\t", file = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/Query2_stats_df_08-10-2025.txt")
+fwrite(stats_list_2, sep = "\t", file = "path/to/paper/Query2_stats_df.txt")
 
 # genes
 gene_list_2 <- rbindlist(lapply(gene_counts_2, function(x) x$gene_count), idcol = "comp")
 gene_list_2 <- gene_list_2 %>%
   separate_wider_delim(cols = comp, delim = "_", names = c("disease", "panelapp_instance"), cols_remove = FALSE) %>%
   mutate(disease = case_when(grepl("CHH_ENG", comp) ~ "CHH",
-                                           grepl("CHH_AUS", comp) ~ "CHH_GMS",
-                                           !grepl("CHH", comp) ~ disease)) %>%
+                             grepl("CHH_AUS", comp) ~ "CHH_GMS",
+                             !grepl("CHH", comp) ~ disease)) %>%
   select(-comp)
 
-fwrite(gene_list_2, sep = "\t", file = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/Query2_genes_df_08-10-2025.txt")
+fwrite(gene_list_2, sep = "\t", file = "path/to/paper/Query2_genes_df.txt")
 
 # missing
 missing_list_2 <- rbindlist(lapply(gene_counts_2, function(x) list(missing = x$missing)), 
@@ -497,7 +461,7 @@ missing_list_2 <- missing_list_2 %>%
   separate_wider_delim(cols = comp, delim = "_", names = c("disease", "panelapp")) %>%
   mutate(entity_id = paste0(disease, "_", missing))
 
-fwrite(missing_list_2, sep = "\t", file = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/Query2_missing_df_08-10-2025.txt")
+fwrite(missing_list_2, sep = "\t", file = "path/to/paper/Query2_missing_df_08-10-2025.txt")
 
 # relations
 relations_list_2 <- rbindlist(lapply(gene_counts_2, function(x) x$relations_count),
@@ -509,18 +473,18 @@ relations_list_2 <- relations_list_2 %>%
                              !grepl("CHH", comp) ~ disease)) %>%
   select(-comp)
 
-fwrite(relations_list_2, sep = "\t", file = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/Query2_relations_df_08-10-2025.txt")
+fwrite(relations_list_2, sep = "\t", file = "path/to/paper/Query2_relations_df.txt")
 
 ## PubTator Relations ####
 ### query PubTator ####
-mesh_pub <- fread("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/MeSH_PubTator_List_31-07-2025.txt", sep = "\t")
+mesh_pub <- fread("path/to/MeSH_PubTator_List.txt", sep = "\t")
 mesh_pub_ready <- str_trim(mesh_pub$MeSH)
 
 mesh_pubtator_accession <- unlist(lapply(unique(mesh_pub_ready), MeSH_to_PubTator))
 PMIDs_pubtator_query(unique(mesh_pubtator_accession), date = "None")
 
 # need to clean up data due to line overflow
-queries_pmids <- readLines("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/RE_Master.txt")
+queries_pmids <- readLines("path/to/RE_Master.txt")
 queries_pmids_clean <- pubtator_df_clean(queries_pmids)
 queries_pmids_clean_unique <- queries_pmids_clean %>% 
     separate_longer_delim(cols = pmids, delim = ";") %>% 
@@ -558,12 +522,11 @@ pt_df_disease <- lapply(pt_df_disease, separate_longer_delim, cols = PMID, delim
 
 pt_df_disease <- lapply(pt_df_disease, function(x) x[!duplicated(x$PMID), ])
 
-pt_df_all <- fread("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PT_Master.txt", sep = "\t") %>%
+pt_df_all <- fread("path/to/PT_Master.txt", sep = "\t") %>%
   filter(PMID %in% as.character(unique(rbindlist(pt_df_disease)$PMID)))
 
 ### gene counts ####
-panel_app_all <- fread("C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/PanelAppENG-AUS_panels_PUB-EDIT_NO-DUPLICATES_25-06-2025.txt",
-                       sep = "\t")
+panel_app_all <- fread("path/to/PanelAppENG-AUS_panels_PUB-EDIT_NO-DUPLICATES.txt", sep = "\t")
 panel_app_eng <- panel_app_all[panel_app_all$panelapp == "ENG", ]
 panel_app_aus <- panel_app_all[panel_app_all$panelapp == "AUS", ]
 
@@ -620,7 +583,7 @@ stats_list <- stats_list %>%
                              !grepl("CHH", comp) ~ disease)) %>%
   select(-comp)
 
-fwrite(stats_list, sep = "\t", file = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/QueryPT1_stats_df_08-10-2025.txt")
+fwrite(stats_list, sep = "\t", file = "path/to/paper/QueryPT1_stats_df.txt")
 
 # genes
 genes_list_PT <- rbindlist(lapply(gene_counts_PT, function(x) x$gene_count), idcol = "comp")
@@ -631,7 +594,7 @@ genes_list_PT <- genes_list_PT %>%
                              !grepl("CHH", comp) ~ disease)) %>%
   select(-comp)
 
-fwrite(genes_list_PT, sep = "\t", file = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/QueryPT1_genes_df_08-10-2025.txt")
+fwrite(genes_list_PT, sep = "\t", file = "path/to/paper/QueryPT1_genes_df.txt")
 
 # missing
 missing_list_PT <- rbindlist(lapply(gene_counts_PT, function(x) list(missing = x$missing)), 
@@ -642,7 +605,7 @@ missing_list_PT <- missing_list_PT %>%
   separate_wider_delim(cols = comp, delim = "_", names = c("disease", "panelapp")) %>%
   mutate(entity_id = paste0(disease, "_", missing))
 
-fwrite(missing_list_PT, sep = "\t", file = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/QueryPT1_missing_df_08-10-2025.txt")
+fwrite(missing_list_PT, sep = "\t", file = "path/to/paper/QueryPT1_missing_df.txt")
 
 # relations
 relations_list_PT <- rbindlist(lapply(gene_counts_PT, function(x) x$relations_count),
@@ -654,4 +617,4 @@ relations_list_PT <- relations_list_PT %>%
                              !grepl("CHH", comp) ~ disease)) %>%
   select(-comp)
 
-fwrite(relations_list_PT, sep = "\t", file = "C:/Users/kenny/Desktop/MOODS/projects/team/GMPH/PubTator/paper/QueryPT1_relations_df_08-10-2025.txt")
+fwrite(relations_list_PT, sep = "\t", file = "path/to/paper/QueryPT1_relations_df.txt")
