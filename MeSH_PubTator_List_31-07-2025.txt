@@ -1,0 +1,2458 @@
+MeSH	disease
+Arteriovenous Malformations	CDH
+Arteriovenous Fistula	CDH
+Carotid-Cavernous Sinus Fistula	CDH
+Intracranial Arteriovenous Malformations	CDH
+Vein of Galen Malformations	CDH
+De Lange Syndrome	CDH
+Fanconi Anemia	CDH
+"Heart Defects, Congenital"	CDH
+22q11 Deletion Syndrome	CDH
+DiGeorge Syndrome	CDH
+Alagille Syndrome	CDH
+Aortic Coarctation	CDH
+Aortico-Ventricular Tunnel	CDH
+Arrhythmogenic Right Ventricular Dysplasia	CDH
+Barth Syndrome	CDH
+Bicuspid Aortic Valve Disease	CDH
+Cor Triatriatum	CDH
+Coronary Vessel Anomalies	CDH
+Anomalous Left Coronary Artery	CDH
+Bland White Garland Syndrome	CDH
+Myocardial Bridging	CDH
+Crisscross Heart	CDH
+Dextrocardia	CDH
+Kartagener Syndrome	CDH
+"Ductus Arteriosus, Patent"	CDH
+Ebstein Anomaly	CDH
+Ectopia Cordis	CDH
+Eisenmenger Complex	CDH
+Heart Septal Defects	CDH
+Aortopulmonary Septal Defect	CDH
+"Truncus Arteriosus, Persistent"	CDH
+Endocardial Cushion Defects	CDH
+"Heart Septal Defects, Atrial"	CDH
+"Foramen Ovale, Patent"	CDH
+Lutembacher Syndrome	CDH
+"Heart Septal Defects, Ventricular"	CDH
+Double Outlet Right Ventricle	CDH
+Heterotaxy Syndrome	CDH
+Hypoplastic Left Heart Syndrome	CDH
+Isolated Noncompaction of the Ventricular Myocardium	CDH
+LEOPARD Syndrome	CDH
+Levocardia	CDH
+Marfan Syndrome	CDH
+Noonan Syndrome	CDH
+Quadricuspid Aortic Valve	CDH
+Tetralogy of Fallot	CDH
+Transposition of Great Vessels	CDH
+Congenitally Corrected Transposition of the Great Arteries	CDH
+Double Outlet Right Ventricle	CDH
+Tricuspid Atresia	CDH
+Trilogy of Fallot	CDH
+Trisomy 13 Syndrome	CDH
+Trisomy 18 Syndrome	CDH
+Turner Syndrome	CDH
+Univentricular Heart	CDH
+Wolff-Parkinson-White Syndrome	CDH
+"Hernia, Diaphragmatic"	CDH
+"Hernias, Diaphragmatic, Congenital"	CDH
+"Hernia, Diaphragmatic, Traumatic"	CDH
+"Hernia, Hiatal"	CDH
+Paraduodenal Hernia	CDH
+Microcephaly	CDH
+Porencephaly	CDH
+Jarcho-Levin syndrome	CDH
+KBG syndrome	CDH
+Hypogonadism	CHH
+Eunuchism	CHH
+Kallmann Syndrome	CHH
+Klinefelter Syndrome	CHH
+Sexual Infantilism	CHH
+"Carbohydrate Metabolism, Inborn Errors"	CHO
+Congenital Disorders of Glycosylation	CHO
+"Fructose Metabolism, Inborn Errors"	CHO
+"Fructose-1,6-Diphosphatase Deficiency"	CHO
+Fructose Intolerance	CHO
+Fucosidosis	CHO
+Galactosemias	CHO
+Glucosephosphate Dehydrogenase Deficiency	CHO
+Glycogen Storage Disease	CHO
+Glycogen Storage Disease Type I	CHO
+Glycogen Storage Disease Type II	CHO
+Glycogen Storage Disease Type IIb	CHO
+Glycogen Storage Disease Type III	CHO
+Glycogen Storage Disease Type IV	CHO
+Glycogen Storage Disease Type V	CHO
+Glycogen Storage Disease Type VI	CHO
+Glycogen Storage Disease Type VII	CHO
+Glycogen Storage Disease Type VIII	CHO
+"Hyperoxaluria, Primary"	CHO
+Lactose Intolerance	CHO
+Mannosidase Deficiency Diseases	CHO
+alpha-Mannosidosis	CHO
+beta-Mannosidosis	CHO
+Mucolipidoses	CHO
+Mucopolysaccharidoses	CHO
+Mucopolysaccharidosis I	CHO
+Mucopolysaccharidosis II	CHO
+Mucopolysaccharidosis III	CHO
+Mucopolysaccharidosis IV	CHO
+Mucopolysaccharidosis VI	CHO
+Mucopolysaccharidosis VII	CHO
+Multiple Carboxylase Deficiency	CHO
+Biotinidase Deficiency	CHO
+Holocarboxylase Synthetase Deficiency	CHO
+"Pyruvate Metabolism, Inborn Errors"	CHO
+Leigh Disease	CHO
+Pyruvate Carboxylase Deficiency Disease	CHO
+Pyruvate Dehydrogenase Complex Deficiency Disease	CHO
+Cholestasis	CHO
+"Cholestasis, Extrahepatic"	CHO
+"Cholestasis, Intrahepatic"	CHO
+Alagille Syndrome	CHO
+"Liver Cirrhosis, Biliary"	CHO
+Mirizzi Syndrome	CHO
+Liver Cirrhosis	CHO
+"Liver Cirrhosis, Alcoholic"	CHO
+"Liver Cirrhosis, Biliary"	CHO
+"Liver Cirrhosis, Experimental"	CHO
+Liver Failure	CHO
+End Stage Liver Disease	CHO
+Hepatic Encephalopathy	CHO
+"Liver Failure, Acute"	CHO
+Acute-On-Chronic Liver Failure	CHO
+Massive Hepatic Necrosis	CHO
+"Metal Metabolism, Inborn Errors"	CHO
+Hemochromatosis	CHO
+Hepatolenticular Degeneration	CHO
+Hypophosphatasia	CHO
+"Hypophosphatemia, Familial"	CHO
+Familial Hypophosphatemic Rickets	CHO
+Menkes Kinky Hair Syndrome	CHO
+"Paralyses, Familial Periodic"	CHO
+Hypokalemic Periodic Paralysis	CHO
+"Paralysis, Hyperkalemic Periodic"	CHO
+Pseudohypoparathyroidism	CHO
+Pseudopseudohypoparathyroidism	CHO
+Peroxisomal Disorders	CHO
+Acatalasia	CHO
+Adrenoleukodystrophy	CHO
+"Chondrodysplasia Punctata, Rhizomelic"	CHO
+Mevalonate Kinase Deficiency	CHO
+Refsum Disease	CHO
+"Refsum Disease, Infantile"	CHO
+Zellweger Syndrome	CHO
+COACH syndrome	CHO
+Meckel syndrome type 1	CHO
+Bardet-Biedl Syndrome	CKD
+Ellis-Van Creveld Syndrome	CKD
+Fabry Disease	CKD
+"Kidney Diseases, Cystic"	CKD
+Medullary Sponge Kidney	CKD
+Multicystic Dysplastic Kidney	CKD
+Polycystic Kidney Diseases	CKD
+"Polycystic Kidney, Autosomal Dominant"	CKD
+"Polycystic Kidney, Autosomal Recessive"	CKD
+Orofaciodigital Syndromes	CKD
+Short Rib-Polydactyly Syndrome	CKD
+Axenfeld-Rieger syndrome	CKD
+"Anemia, Diamond-Blackfan"	DBA
+"Acidosis, Renal Tubular"	DSD
+Azoospermia	DSD
+Bardet-Biedl Syndrome	DSD
+Cloacal Exstrophy	DSD
+Congenital Disorders of Glycosylation	DSD
+Gonadal Disorders	DSD
+Disorders of Sex Development	DSD
+"46, XX Disorders of Sex Development"	DSD
+"46, XX Testicular Disorders of Sex Development"	DSD
+"Gonadal Dysgenesis, 46,XX"	DSD
+Hyperandrogenism	DSD
+Adrenogenital Syndrome	DSD
+"Adrenal Hyperplasia, Congenital"	DSD
+Hyperandrogenism	DSD
+"Disorder of Sex Development, 46,XY"	DSD
+Androgen-Insensitivity Syndrome	DSD
+Denys-Drash Syndrome	DSD
+Frasier Syndrome	DSD
+"Gonadal Dysgenesis, 46,XY"	DSD
+Gonadoblastoma	DSD
+Kallmann Syndrome	DSD
+WAGR Syndrome	DSD
+Gonadal Dysgenesis	DSD
+"Gonadal Dysgenesis, 46,XX"	DSD
+"Gonadal Dysgenesis, 46,XY"	DSD
+Gonadoblastoma	DSD
+"Gonadal Dysgenesis, Mixed"	DSD
+Sexual Infantilism	DSD
+Turner Syndrome	DSD
+Ovotesticular Disorders of Sex Development	DSD
+Sex Chromosome Disorders of Sex Development	DSD
+Freemartinism	DSD
+"Gonadal Dysgenesis, Mixed"	DSD
+Klinefelter Syndrome	DSD
+Turner Syndrome	DSD
+Hypogonadism	DSD
+Eunuchism	DSD
+Kallmann Syndrome	DSD
+Klinefelter Syndrome	DSD
+Sexual Infantilism	DSD
+Ovarian Diseases	DSD
+Anovulation	DSD
+Oophoritis	DSD
+Ovarian Cysts	DSD
+Polycystic Ovary Syndrome	DSD
+Ovarian Hyperstimulation Syndrome	DSD
+Ovarian Neoplasms	DSD
+Brenner Tumor	DSD
+"Carcinoma, Endometrioid"	DSD
+"Carcinoma, Ovarian Epithelial"	DSD
+Granulosa Cell Tumor	DSD
+Hereditary Breast and Ovarian Cancer Syndrome	DSD
+Luteoma	DSD
+Meigs Syndrome	DSD
+Sertoli-Leydig Cell Tumor	DSD
+Thecoma	DSD
+Ovarian Torsion	DSD
+Primary Ovarian Insufficiency	DSD
+"Puberty, Delayed"	DSD
+"Puberty, Precocious"	DSD
+Testicular Diseases	DSD
+Cryptorchidism	DSD
+Orchitis	DSD
+Testicular Hydrocele	DSD
+Testicular Neoplasms	DSD
+Sertoli-Leydig Cell Tumor	DSD
+Leydig Cell Tumor	DSD
+Sertoli Cell Tumor	DSD
+Smith-Lemli-Opitz Syndrome	DSD
+Barber Say syndrome	DSD
+Coffin-Siris syndrome	DSD
+Desmosterolosis	DSD
+Hand foot uterus syndrome	DSD
+Meier-Gorlin syndrome	DSD
+MORM syndrome	DSD
+Popliteal Pterygium Syndrome	DSD
+"Acidosis, Lactic"	FET
+Anemia	FET
+"Anemia, Aplastic"	FET
+"Anemia, Hypoplastic, Congenital"	FET
+"Anemia, Diamond-Blackfan"	FET
+Fanconi Anemia	FET
+"Anemia, Hemolytic"	FET
+"Anemia, Hemolytic, Autoimmune"	FET
+"Anemia, Hemolytic, Congenital"	FET
+"Anemia, Dyserythropoietic, Congenital"	FET
+"Anemia, Hemolytic, Congenital Nonspherocytic"	FET
+"Anemia, Sickle Cell"	FET
+Acute Chest Syndrome	FET
+Hemoglobin SC Disease	FET
+Sickle Cell Trait	FET
+Vaso-Occlusive Crises	FET
+"Elliptocytosis, Hereditary"	FET
+Glucosephosphate Dehydrogenase Deficiency	FET
+Favism	FET
+Hemoglobin C Disease	FET
+"Spherocytosis, Hereditary"	FET
+Thalassemia	FET
+alpha-Thalassemia	FET
+beta-Thalassemia	FET
+delta-Thalassemia	FET
+Favism	FET
+"Hemoglobinuria, Paroxysmal"	FET
+Hemolytic-Uremic Syndrome	FET
+Atypical Hemolytic Uremic Syndrome	FET
+"Anemia, Hypochromic"	FET
+"Anemia, Iron-Deficiency"	FET
+"Anemia, Macrocytic"	FET
+"Anemia, Megaloblastic"	FET
+"Anemia, Pernicious"	FET
+"Anemia, Myelophthisic"	FET
+"Anemia, Neonatal"	FET
+Fetofetal Transfusion	FET
+Fetomaternal Transfusion	FET
+"Anemia, Refractory"	FET
+"Anemia, Refractory, with Excess of Blasts"	FET
+"Anemia, Sideroblastic"	FET
+"Red-Cell Aplasia, Pure"	FET
+"Anemia, Diamond-Blackfan"	FET
+Atypical Hemolytic Uremic Syndrome	FET
+Bone Diseases  	FET
+Bone Cysts  	FET
+"Bone Cysts, Aneurysmal  "	FET
+"Bone Diseases, Developmental  "	FET
+Acro-Osteolysis  	FET
+Hajdu-Cheney Syndrome  	FET
+Basal Cell Nevus Syndrome  	FET
+Dwarfism  	FET
+Achondroplasia  	FET
+Thanatophoric Dysplasia  	FET
+Cockayne Syndrome  	FET
+Congenital Hypothyroidism  	FET
+"Dwarfism, Pituitary  "	FET
+Laron Syndrome  	FET
+Mulibrey Nanism  	FET
+Weill-Marchesani Syndrome  	FET
+Dysostoses  	FET
+Craniofacial Dysostosis  	FET
+Hallermann's Syndrome  	FET
+Hypertelorism  	FET
+Mandibulofacial Dysostosis  	FET
+Goldenhar Syndrome  	FET
+Focal Dermal Hypoplasia  	FET
+Klippel-Feil Syndrome  	FET
+Orofaciodigital Syndromes  	FET
+Rubinstein-Taybi Syndrome  	FET
+Synostosis  	FET
+Antley-Bixler Syndrome Phenotype  	FET
+Craniosynostoses  	FET
+Acrocephalosyndactylia  	FET
+Syndactyly  	FET
+Acrocephalosyndactylia  	FET
+Fraser Syndrome  	FET
+Poland Syndrome  	FET
+Tarsal Coalition  	FET
+Funnel Chest  	FET
+Gigantism  	FET
+Leg Length Inequality  	FET
+Marfan Syndrome  	FET
+Osteochondrodysplasias  	FET
+Achondroplasia  	FET
+Thanatophoric Dysplasia  	FET
+Acquired Hyperostosis Syndrome  	FET
+Camurati-Engelmann Syndrome  	FET
+Chondrodysplasia Punctata  	FET
+"Chondrodysplasia Punctata, Rhizomelic  "	FET
+Cleidocranial Dysplasia  	FET
+Ellis-Van Creveld Syndrome  	FET
+Enchondromatosis  	FET
+Fibrous Dysplasia of Bone  	FET
+Cherubism  	FET
+Craniofacial Fibrous Dysplasia  	FET
+"Fibrous Dysplasia, Monostotic  "	FET
+"Fibrous Dysplasia, Polyostotic  "	FET
+"Hyperostosis, Cortical, Congenital  "	FET
+Hyperostosis Frontalis Interna  	FET
+Kashin-Beck Disease  	FET
+Langer-Giedion Syndrome  	FET
+Osteochondroma  	FET
+Osteochondromatosis  	FET
+"Exostoses, Multiple Hereditary  "	FET
+Osteogenesis Imperfecta  	FET
+Osteosclerosis  	FET
+Melorheostosis  	FET
+Osteopetrosis  	FET
+Osteopoikilosis  	FET
+Pycnodysostosis  	FET
+Short Rib-Polydactyly Syndrome  	FET
+Slipped Capital Femoral Epiphyses  	FET
+"Osteolysis, Essential  "	FET
+Pectus Carinatum  	FET
+Platybasia  	FET
+Proteus Syndrome  	FET
+"Bone Diseases, Endocrine  "	FET
+Acromegaly  	FET
+Congenital Hypothyroidism  	FET
+"Dwarfism, Pituitary  "	FET
+Gigantism  	FET
+Osteitis Fibrosa Cystica  	FET
+"Bone Diseases, Infectious  "	FET
+Osteomyelitis  	FET
+Mastoiditis  	FET
+Petrositis  	FET
+Pott Puffy Tumor  	FET
+Periostitis  	FET
+Spondylitis  	FET
+Discitis  	FET
+"Tuberculosis, Osteoarticular  "	FET
+"Tuberculosis, Spinal  "	FET
+"Bone Diseases, Metabolic  "	FET
+"Bone Demineralization, Pathologic  "	FET
+"Decalcification, Pathologic  "	FET
+Mucolipidoses  	FET
+Osteoporosis  	FET
+"Osteoporosis, Postmenopausal  "	FET
+Pseudohypoparathyroidism  	FET
+Pseudopseudohypoparathyroidism  	FET
+Rickets  	FET
+Osteomalacia  	FET
+Chronic Kidney Disease-Mineral and Bone Disorder  	FET
+"Rickets, Hypophosphatemic  "	FET
+Familial Hypophosphatemic Rickets  	FET
+Bone Malalignment  	FET
+Bone Anteversion  	FET
+Coxa Vara  	FET
+Bone Retroversion  	FET
+Coxa Valga  	FET
+Bone Neoplasms  	FET
+Adamantinoma  	FET
+Femoral Neoplasms  	FET
+Skull Neoplasms  	FET
+Jaw Neoplasms  	FET
+Mandibular Neoplasms  	FET
+Maxillary Neoplasms  	FET
+Palatal Neoplasms  	FET
+Nose Neoplasms  	FET
+Orbital Neoplasms  	FET
+Skull Base Neoplasms  	FET
+Spinal Neoplasms  	FET
+Bone Resorption  	FET
+Ainhum  	FET
+Alveolar Bone Loss  	FET
+Atrophic Maxilla  	FET
+Osteolysis  	FET
+Acro-Osteolysis  	FET
+Hajdu-Cheney Syndrome  	FET
+"Osteolysis, Essential  "	FET
+Coxa Magna  	FET
+Coxa Valga  	FET
+Eosinophilic Granuloma  	FET
+"Epiphyses, Slipped  "	FET
+Slipped Capital Femoral Epiphyses  	FET
+Genu Valgum  	FET
+Genu Varum  	FET
+Hyperostosis  	FET
+Exostoses  	FET
+"Exostoses, Multiple Hereditary  "	FET
+Heel Spur  	FET
+Osteophyte  	FET
+"Hyperostosis, Cortical, Congenital  "	FET
+"Hyperostosis, Diffuse Idiopathic Skeletal  "	FET
+Hyperostosis Frontalis Interna  	FET
+"Hyperostosis, Sternocostoclavicular  "	FET
+Osteitis  	FET
+Osteitis Deformans  	FET
+"Osteoarthropathy, Primary Hypertrophic  "	FET
+"Osteoarthropathy, Secondary Hypertrophic  "	FET
+Osteochondritis  	FET
+Osteochondritis Dissecans  	FET
+Osteochondrosis  	FET
+Spinal Osteochondrosis  	FET
+Scheuermann Disease  	FET
+Osteonecrosis  	FET
+Bisphosphonate-Associated Osteonecrosis of the Jaw  	FET
+Femur Head Necrosis  	FET
+Legg-Calve-Perthes Disease  	FET
+Spinal Diseases  	FET
+Intervertebral Disc Degeneration  	FET
+Intervertebral Disc Displacement  	FET
+Ossification of Posterior Longitudinal Ligament  	FET
+Platybasia  	FET
+Posterior Cervical Sympathetic Syndrome  	FET
+Spinal Curvatures  	FET
+Kyphosis  	FET
+Scheuermann Disease  	FET
+Lordosis  	FET
+Scoliosis  	FET
+Spinal Neoplasms  	FET
+Spinal Osteochondrosis  	FET
+Scheuermann Disease  	FET
+Spinal Osteophytosis  	FET
+"Hyperostosis, Diffuse Idiopathic Skeletal  "	FET
+Spinal Stenosis  	FET
+Spondylitis  	FET
+Discitis  	FET
+Spondylarthritis  	FET
+"Osteoarthritis, Spine  "	FET
+Spondylarthropathies  	FET
+"Arthritis, Psoriatic  "	FET
+"Arthritis, Reactive  "	FET
+Axial Spondyloarthritis  	FET
+Non-Radiographic Axial Spondyloarthritis  	FET
+"Spondylitis, Ankylosing  "	FET
+"Tuberculosis, Spinal  "	FET
+Spondylosis  	FET
+Spondylolysis  	FET
+Spondylolisthesis  	FET
+"Bulbar Palsy, Progressive"	FET
+Cerebral Small Vessel Diseases	FET
+CADASIL	FET
+"Cerebral Amyloid Angiopathy, Familial"	FET
+Fabry Disease	FET
+MELAS Syndrome	FET
+Microscopic Polyangiitis	FET
+"Stroke, Lacunar"	FET
+"Child Development Disorders, Pervasive  "	FET
+Autism Spectrum Disorder  	FET
+Asperger Syndrome  	FET
+Autistic Disorder  	FET
+Congenital Abnormalities	FET
+"Abnormalities, Drug-Induced"	FET
+"Abnormalities, Multiple"	FET
+22q11 Deletion Syndrome	FET
+DiGeorge Syndrome	FET
+Alagille Syndrome	FET
+Angelman Syndrome	FET
+Barth Syndrome	FET
+Basal Cell Nevus Syndrome	FET
+Beckwith-Wiedemann Syndrome	FET
+Bloom Syndrome	FET
+Branchio-Oto-Renal Syndrome	FET
+Carney Complex	FET
+Ciliopathies	FET
+Alstrom Syndrome	FET
+Bardet-Biedl Syndrome	FET
+Caroli Disease	FET
+Ciliary Motility Disorders	FET
+Kartagener Syndrome	FET
+von Hippel-Lindau Disease	FET
+Cockayne Syndrome	FET
+Costello Syndrome	FET
+Cri-du-Chat Syndrome	FET
+De Lange Syndrome	FET
+Deaf-Blind Disorders	FET
+CHARGE Syndrome	FET
+Usher Syndromes	FET
+Wolfram Syndrome	FET
+Donohue Syndrome	FET
+Down Syndrome	FET
+Ectodermal Dysplasia	FET
+"Ectodermal Dysplasia 1, Anhidrotic"	FET
+"Ectodermal Dysplasia 3, Anhidrotic"	FET
+"Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive"	FET
+Ellis-Van Creveld Syndrome	FET
+Focal Dermal Hypoplasia	FET
+Focal Facial Dermal Dysplasias	FET
+Neurocutaneous Syndromes	FET
+Pachyonychia Congenita	FET
+Fraser Syndrome	FET
+Gardner Syndrome	FET
+Heterotaxy Syndrome	FET
+Holoprosencephaly	FET
+Incontinentia Pigmenti	FET
+Isolated Noncompaction of the Ventricular Myocardium	FET
+Laurence-Moon Syndrome	FET
+LEOPARD Syndrome	FET
+Loeys-Dietz Syndrome	FET
+Marfan Syndrome	FET
+Mobius Syndrome	FET
+Monilethrix	FET
+Nail-Patella Syndrome	FET
+Netherton Syndrome	FET
+"Nevus, Sebaceous of Jadassohn"	FET
+Oculocerebrorenal Syndrome	FET
+Orofaciodigital Syndromes	FET
+Pallister-Hall Syndrome	FET
+Pentalogy of Cantrell	FET
+POEMS Syndrome	FET
+Polycystic Kidney Diseases	FET
+"Polycystic Kidney, Autosomal Dominant"	FET
+"Polycystic Kidney, Autosomal Recessive"	FET
+Prader-Willi Syndrome	FET
+Prolidase Deficiency	FET
+Proteus Syndrome	FET
+Prune Belly Syndrome	FET
+"Rubella Syndrome, Congenital"	FET
+Rubinstein-Taybi Syndrome	FET
+Short Rib-Polydactyly Syndrome	FET
+Silver-Russell Syndrome	FET
+Smith-Lemli-Opitz Syndrome	FET
+Smith-Magenis Syndrome	FET
+Sotos Syndrome	FET
+Trichothiodystrophy Syndromes	FET
+Trisomy 13 Syndrome	FET
+Trisomy 18 Syndrome	FET
+Waardenburg Syndrome	FET
+Weill-Marchesani Syndrome	FET
+Wolf-Hirschhorn Syndrome	FET
+Zellweger Syndrome	FET
+"Abnormalities, Radiation-Induced"	FET
+"Abnormalities, Severe Teratoid"	FET
+Anencephaly	FET
+"Twins, Conjoined"	FET
+Fetus-in-Fetu	FET
+Aicardi Syndrome	FET
+Cardiovascular Abnormalities	FET
+"Heart Defects, Congenital"	FET
+22q11 Deletion Syndrome	FET
+DiGeorge Syndrome	FET
+Alagille Syndrome	FET
+Aortic Coarctation	FET
+Aortico-Ventricular Tunnel	FET
+Arrhythmogenic Right Ventricular Dysplasia	FET
+Barth Syndrome	FET
+Bicuspid Aortic Valve Disease	FET
+Cor Triatriatum	FET
+Coronary Vessel Anomalies	FET
+Anomalous Left Coronary Artery	FET
+Bland White Garland Syndrome	FET
+Myocardial Bridging	FET
+Crisscross Heart	FET
+Dextrocardia	FET
+Kartagener Syndrome	FET
+"Ductus Arteriosus, Patent"	FET
+Ebstein Anomaly	FET
+Ectopia Cordis	FET
+Eisenmenger Complex	FET
+Heart Septal Defects	FET
+Aortopulmonary Septal Defect	FET
+"Truncus Arteriosus, Persistent"	FET
+Endocardial Cushion Defects	FET
+"Heart Septal Defects, Atrial"	FET
+"Foramen Ovale, Patent"	FET
+Lutembacher Syndrome	FET
+"Heart Septal Defects, Ventricular"	FET
+Double Outlet Right Ventricle	FET
+Heterotaxy Syndrome	FET
+Hypoplastic Left Heart Syndrome	FET
+Isolated Noncompaction of the Ventricular Myocardium	FET
+LEOPARD Syndrome	FET
+Levocardia	FET
+Long QT Syndrome	FET
+Andersen Syndrome	FET
+Jervell-Lange Nielsen Syndrome	FET
+Romano-Ward Syndrome	FET
+Marfan Syndrome	FET
+Noonan Syndrome	FET
+Quadricuspid Aortic Valve	FET
+Tetralogy of Fallot	FET
+Transposition of Great Vessels	FET
+Congenitally Corrected Transposition of the Great Arteries	FET
+Double Outlet Right Ventricle	FET
+Tricuspid Atresia	FET
+Trilogy of Fallot	FET
+Trisomy 13 Syndrome	FET
+Trisomy 18 Syndrome	FET
+Turner Syndrome	FET
+Univentricular Heart	FET
+Wolff-Parkinson-White Syndrome	FET
+Vascular Malformations	FET
+Congenital Portosystemic Shunt	FET
+Arterio-Arterial Fistula	FET
+Bland White Garland Syndrome	FET
+Arteriovenous Malformations	FET
+Arteriovenous Fistula	FET
+Intracranial Arteriovenous Malformations	FET
+Vein of Galen Malformations	FET
+Central Nervous System Vascular Malformations	FET
+Intracranial Arteriovenous Malformations	FET
+Vein of Galen Malformations	FET
+May-Thurner Syndrome	FET
+Median Arcuate Ligament Syndrome	FET
+Persistent Left Superior Vena Cava	FET
+Pulmonary Atresia	FET
+Scimitar Syndrome	FET
+Single Umbilical Artery	FET
+"Telangiectasia, Hereditary Hemorrhagic"	FET
+Vascular Ring	FET
+Chromosome Disorders	FET
+22q11 Deletion Syndrome	FET
+DiGeorge Syndrome	FET
+Angelman Syndrome	FET
+Beckwith-Wiedemann Syndrome	FET
+Branchio-Oto-Renal Syndrome	FET
+Cri-du-Chat Syndrome	FET
+De Lange Syndrome	FET
+Down Syndrome	FET
+Holoprosencephaly	FET
+Jacobsen Distal 11q Deletion Syndrome	FET
+Prader-Willi Syndrome	FET
+Rubinstein-Taybi Syndrome	FET
+Sex Chromosome Disorders	FET
+Fragile X Syndrome	FET
+Orofaciodigital Syndromes	FET
+Sex Chromosome Disorders of Sex Development	FET
+"Gonadal Dysgenesis, Mixed"	FET
+Klinefelter Syndrome	FET
+Turner Syndrome	FET
+Silver-Russell Syndrome	FET
+Smith-Magenis Syndrome	FET
+Sotos Syndrome	FET
+Trisomy 13 Syndrome	FET
+Trisomy 18 Syndrome	FET
+WAGR Syndrome	FET
+Williams Syndrome	FET
+Wolf-Hirschhorn Syndrome	FET
+Congenital Microtia	FET
+Digestive System Abnormalities	FET
+Anorectal Malformations	FET
+"Anus, Imperforate"	FET
+Cloacal Exstrophy	FET
+Biliary Atresia	FET
+Choledochal Cyst	FET
+Caroli Disease	FET
+Diaphragmatic Eventration	FET
+Esophageal Atresia	FET
+Hirschsprung Disease	FET
+Intestinal Atresia	FET
+Meckel Diverticulum	FET
+Pancreas Divisum	FET
+Pancreaticobiliary Maljunction	FET
+Eye Abnormalities	FET
+Aniridia	FET
+WAGR Syndrome	FET
+Anophthalmos	FET
+Blepharophimosis	FET
+Coloboma	FET
+Ectopia Lentis	FET
+Familial Exudative Vitreoretinopathies	FET
+Fraser Syndrome	FET
+Hydrophthalmos	FET
+Microphthalmos	FET
+Persistent Hyperplastic Primary Vitreous	FET
+Retinal Dysplasia	FET
+"Hernias, Diaphragmatic, Congenital"	FET
+Lymphatic Abnormalities	FET
+22q11 Deletion Syndrome	FET
+DiGeorge Syndrome	FET
+"Lymphangiectasis, Intestinal"	FET
+Musculoskeletal Abnormalities	FET
+Arthrogryposis	FET
+Campomelic Dysplasia	FET
+Cervical Rib Syndrome	FET
+Craniofacial Abnormalities	FET
+22q11 Deletion Syndrome	FET
+DiGeorge Syndrome	FET
+Cleidocranial Dysplasia	FET
+Craniofacial Dysostosis	FET
+Hallermann's Syndrome	FET
+Hypertelorism	FET
+Mandibulofacial Dysostosis	FET
+Goldenhar Syndrome	FET
+Craniosynostoses	FET
+Acrocephalosyndactylia	FET
+Holoprosencephaly	FET
+LEOPARD Syndrome	FET
+Megalencephaly	FET
+Hemimegalencephaly	FET
+Maxillofacial Abnormalities	FET
+Cherubism	FET
+Dentofacial Deformities	FET
+Jaw Abnormalities	FET
+Cleft Palate	FET
+Micrognathism	FET
+Pierre Robin Syndrome	FET
+Prognathism	FET
+Retrognathia	FET
+Microcephaly	FET
+Porencephaly	FET
+Noonan Syndrome	FET
+Orofaciodigital Syndromes	FET
+Plagiocephaly	FET
+"Plagiocephaly, Nonsynostotic"	FET
+Platybasia	FET
+Rubinstein-Taybi Syndrome	FET
+Developmental Dysplasia of the Hip	FET
+"Hip Dislocation, Congenital"	FET
+Funnel Chest	FET
+Gastroschisis	FET
+Hajdu-Cheney Syndrome	FET
+"Hip Dislocation, Congenital"	FET
+Klippel-Feil Syndrome	FET
+Laryngomalacia	FET
+"Limb Deformities, Congenital"	FET
+Arachnodactyly	FET
+Brachydactyly	FET
+Ectromelia	FET
+"Lower Extremity Deformities, Congenital"	FET
+"Foot Deformities, Congenital"	FET
+Talipes	FET
+Clubfoot	FET
+Equinus Deformity	FET
+Flatfoot	FET
+Talipes Cavus	FET
+Tarsal Coalition	FET
+Polydactyly	FET
+Pallister-Hall Syndrome	FET
+Short Rib-Polydactyly Syndrome	FET
+Proteus Syndrome	FET
+Syndactyly	FET
+Acrocephalosyndactylia	FET
+Fraser Syndrome	FET
+Poland Syndrome	FET
+Thanatophoric Dysplasia	FET
+"Upper Extremity Deformities, Congenital"	FET
+"Hand Deformities, Congenital"	FET
+Pectus Carinatum	FET
+Synostosis	FET
+Antley-Bixler Syndrome Phenotype	FET
+Craniosynostoses	FET
+Acrocephalosyndactylia	FET
+Syndactyly	FET
+Acrocephalosyndactylia	FET
+Fraser Syndrome	FET
+Poland Syndrome	FET
+Tarsal Coalition	FET
+Tracheobronchomalacia	FET
+Bronchomalacia	FET
+Tracheomalacia	FET
+Nervous System Malformations	FET
+Agenesis of Corpus Callosum	FET
+Acrocallosal Syndrome	FET
+Aicardi Syndrome	FET
+Holoprosencephaly	FET
+Septo-Optic Dysplasia	FET
+Central Nervous System Cysts	FET
+Arachnoid Cysts	FET
+Colloid Cysts	FET
+Central Nervous System Vascular Malformations	FET
+Central Nervous System Venous Angioma	FET
+"Hemangioma, Cavernous, Central Nervous System"	FET
+Intracranial Arteriovenous Malformations	FET
+Vein of Galen Malformations	FET
+Sinus Pericranii	FET
+Congenital Cranial Dysinnervation Disorders	FET
+Dandy-Walker Syndrome	FET
+Hereditary Sensory and Motor Neuropathy	FET
+Alstrom Syndrome	FET
+Charcot-Marie-Tooth Disease	FET
+Giant Axonal Neuropathy	FET
+Refsum Disease	FET
+"Spastic Paraplegia, Hereditary"	FET
+Hereditary Sensory and Autonomic Neuropathies	FET
+"Dysautonomia, Familial"	FET
+Hydranencephaly	FET
+Malformations of Cortical Development	FET
+"Malformations of Cortical Development, Group I"	FET
+Focal Cortical Dysplasia	FET
+Hippocampal Sclerosis	FET
+Megalencephaly	FET
+Hemimegalencephaly	FET
+Microcephaly	FET
+Tuberous Sclerosis	FET
+"Malformations of Cortical Development, Group II"	FET
+Classical Lissencephalies and Subcortical Band Heterotopias	FET
+Cobblestone Lissencephaly	FET
+Lissencephaly	FET
+Classical Lissencephalies and Subcortical Band Heterotopias	FET
+Cobblestone Lissencephaly	FET
+Walker-Warburg Syndrome	FET
+Periventricular Nodular Heterotopia	FET
+"Malformations of Cortical Development, Group III"	FET
+Polymicrogyria	FET
+Porencephaly	FET
+Schizencephaly	FET
+Neural Tube Defects	FET
+Anencephaly	FET
+Arnold-Chiari Malformation	FET
+Encephalocele	FET
+Meningocele	FET
+Meningomyelocele	FET
+Pentalogy of Cantrell	FET
+Spinal Dysraphism	FET
+Spina Bifida Cystica	FET
+Spina Bifida Occulta	FET
+Optic Nerve Hypoplasia	FET
+Septo-Optic Dysplasia	FET
+Respiratory System Abnormalities	FET
+Bronchogenic Cyst	FET
+Bronchopulmonary Sequestration	FET
+Choanal Atresia	FET
+"Cystic Adenomatoid Malformation of Lung, Congenital"	FET
+Kartagener Syndrome	FET
+Laryngocele	FET
+Laryngostenosis	FET
+Scimitar Syndrome	FET
+Tracheobronchomegaly	FET
+Situs Inversus	FET
+Dextrocardia	FET
+Kartagener Syndrome	FET
+Levocardia	FET
+Skin Abnormalities	FET
+Acrodermatitis	FET
+Carney Complex	FET
+Dyskeratosis Congenita	FET
+Ectodermal Dysplasia	FET
+"Ectodermal Dysplasia 1, Anhidrotic"	FET
+"Ectodermal Dysplasia 3, Anhidrotic"	FET
+"Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive"	FET
+Ellis-Van Creveld Syndrome	FET
+Focal Dermal Hypoplasia	FET
+Focal Facial Dermal Dysplasias	FET
+Neurocutaneous Syndromes	FET
+Pachyonychia Congenita	FET
+Steatocystoma Multiplex	FET
+Ehlers-Danlos Syndrome	FET
+"Ehlers-Danlos Syndrome, Type IV"	FET
+Epidermolysis Bullosa	FET
+Epidermolysis Bullosa Acquisita	FET
+Epidermolysis Bullosa Dystrophica	FET
+"Epidermolysis Bullosa, Junctional"	FET
+Epidermolysis Bullosa Simplex	FET
+Ichthyosis	FET
+"Ichthyosiform Erythroderma, Congenital"	FET
+"Hyperkeratosis, Epidermolytic"	FET
+"Ichthyosis, Lamellar"	FET
+Netherton Syndrome	FET
+Ichthyosis Bullosa of Siemens	FET
+Ichthyosis Vulgaris	FET
+"Ichthyosis, X-Linked"	FET
+Sjogren-Larsson Syndrome	FET
+Incontinentia Pigmenti	FET
+Port-Wine Stain	FET
+Prolidase Deficiency	FET
+Pseudoxanthoma Elasticum	FET
+Rothmund-Thomson Syndrome	FET
+Sclerema Neonatorum	FET
+Trichothiodystrophy Syndromes	FET
+Xeroderma Pigmentosum	FET
+Stomatognathic System Abnormalities	FET
+Maxillofacial Abnormalities	FET
+Dentofacial Deformities	FET
+Jaw Abnormalities	FET
+Cleft Palate	FET
+Micrognathism	FET
+Pierre Robin Syndrome	FET
+Prognathism	FET
+Retrognathia	FET
+Mouth Abnormalities	FET
+Cleft Lip	FET
+Cleft Palate	FET
+"Fibromatosis, Gingival"	FET
+Macrostomia	FET
+Microstomia	FET
+Velopharyngeal Insufficiency	FET
+Tooth Abnormalities	FET
+Anodontia	FET
+Dens in Dente	FET
+Dentin Dysplasia	FET
+Dentinogenesis Imperfecta	FET
+Developmental Defects of Enamel	FET
+Amelogenesis Imperfecta	FET
+Dental Enamel Hypomineralization	FET
+"Fluorosis, Dental"	FET
+Molar Hypomineralization	FET
+Dental Enamel Hypoplasia	FET
+Diastema	FET
+Fused Teeth	FET
+Odontodysplasia	FET
+"Tooth, Supernumerary"	FET
+Thyroid Dysgenesis	FET
+Lingual Thyroid	FET
+Lingual Goiter	FET
+Urogenital Abnormalities	FET
+Bladder Exstrophy	FET
+Cloacal Exstrophy	FET
+Cryptorchidism	FET
+Disorders of Sex Development	FET
+"46, XX Disorders of Sex Development"	FET
+"46, XX Testicular Disorders of Sex Development"	FET
+"Gonadal Dysgenesis, 46,XX"	FET
+Hyperandrogenism	FET
+"Disorder of Sex Development, 46,XY"	FET
+Androgen-Insensitivity Syndrome	FET
+Denys-Drash Syndrome	FET
+Frasier Syndrome	FET
+"Gonadal Dysgenesis, 46,XY"	FET
+Gonadoblastoma	FET
+Kallmann Syndrome	FET
+WAGR Syndrome	FET
+Adrenogenital Syndrome	FET
+"Adrenal Hyperplasia, Congenital"	FET
+Hyperandrogenism	FET
+Gonadal Dysgenesis	FET
+"Gonadal Dysgenesis, 46,XX"	FET
+"Gonadal Dysgenesis, 46,XY"	FET
+Gonadoblastoma	FET
+"Gonadal Dysgenesis, Mixed"	FET
+Sexual Infantilism	FET
+Turner Syndrome	FET
+Ovotesticular Disorders of Sex Development	FET
+Sex Chromosome Disorders of Sex Development	FET
+Freemartinism	FET
+"Gonadal Dysgenesis, Mixed"	FET
+Klinefelter Syndrome	FET
+Turner Syndrome	FET
+Epispadias	FET
+Fraser Syndrome	FET
+Fused Kidney	FET
+Hypospadias	FET
+Multicystic Dysplastic Kidney	FET
+"Nephritis, Hereditary"	FET
+Pyelectasis	FET
+Retrocaval Ureter	FET
+Uterine Duplication Anomalies	FET
+Epilepsy	FET
+Drug Resistant Epilepsy	FET
+"Epilepsies, Partial"	FET
+"Epilepsy, Complex Partial"	FET
+"Epilepsy, Frontal Lobe"	FET
+"Epilepsy, Partial, Motor"	FET
+"Epilepsy, Partial, Sensory"	FET
+"Epilepsy, Rolandic"	FET
+"Epilepsy, Temporal Lobe"	FET
+"Epilepsy, Benign Neonatal"	FET
+"Epilepsy, Generalized"	FET
+"Epilepsies, Myoclonic"	FET
+"Myoclonic Epilepsies, Progressive"	FET
+Lafora Disease	FET
+MERRF Syndrome	FET
+Unverricht-Lundborg Syndrome	FET
+"Myoclonic Epilepsy, Juvenile"	FET
+"Epilepsy, Absence"	FET
+"Epilepsy, Tonic-Clonic"	FET
+Nodding Syndrome	FET
+"Spasms, Infantile"	FET
+"Epilepsy, Post-Traumatic"	FET
+"Epilepsy, Reflex"	FET
+Epileptic Syndromes	FET
+"Epilepsies, Myoclonic"	FET
+"Myoclonic Epilepsies, Progressive"	FET
+Lafora Disease	FET
+MERRF Syndrome	FET
+Unverricht-Lundborg Syndrome	FET
+"Myoclonic Epilepsy, Juvenile"	FET
+"Epilepsy, Absence"	FET
+"Epilepsy, Frontal Lobe"	FET
+"Epilepsy, Rolandic"	FET
+"Epilepsy, Temporal Lobe"	FET
+Landau-Kleffner Syndrome	FET
+Lennox Gastaut Syndrome	FET
+"Spasms, Infantile"	FET
+Sudden Unexpected Death in Epilepsy	FET
+Fetal Death  	FET
+Fetal Resorption  	FET
+Stillbirth  	FET
+Fetal Diseases	FET
+Chorioamnionitis	FET
+Echogenic Bowel	FET
+"Erythroblastosis, Fetal"	FET
+Hydrops Fetalis	FET
+Fetal Alcohol Spectrum Disorders	FET
+Fetal Growth Retardation	FET
+Fetal Hypoxia	FET
+Fetal Macrosomia	FET
+"Genetic Diseases, Inborn"	FET
+"Adrenal Hyperplasia, Congenital"	FET
+Alagille Syndrome	FET
+alpha 1-Antitrypsin Deficiency	FET
+"Anemia, Hemolytic, Congenital"	FET
+"Anemia, Dyserythropoietic, Congenital"	FET
+"Anemia, Hemolytic, Congenital Nonspherocytic"	FET
+"Anemia, Sickle Cell"	FET
+Acute Chest Syndrome	FET
+Hemoglobin SC Disease	FET
+Sickle Cell Trait	FET
+Vaso-Occlusive Crises	FET
+"Elliptocytosis, Hereditary"	FET
+Glucosephosphate Dehydrogenase Deficiency	FET
+Favism	FET
+Hemoglobin C Disease	FET
+"Spherocytosis, Hereditary"	FET
+Thalassemia	FET
+alpha-Thalassemia	FET
+beta-Thalassemia	FET
+delta-Thalassemia	FET
+"Anemia, Hypoplastic, Congenital"	FET
+"Anemia, Diamond-Blackfan"	FET
+Fanconi Anemia	FET
+Ataxia Telangiectasia	FET
+Autoimmune Lymphoproliferative Syndrome	FET
+"Blood Coagulation Disorders, Inherited"	FET
+Activated Protein C Resistance	FET
+Afibrinogenemia	FET
+Antithrombin III Deficiency	FET
+Bernard-Soulier Syndrome	FET
+Factor V Deficiency	FET
+Factor VII Deficiency	FET
+Factor X Deficiency	FET
+Factor XI Deficiency	FET
+Factor XII Deficiency	FET
+Factor XIII Deficiency	FET
+Gray Platelet Syndrome	FET
+Hemophilia A	FET
+Hemophilia B	FET
+Hermanski-Pudlak Syndrome	FET
+Hypoprothrombinemias	FET
+Protein C Deficiency	FET
+Thrombasthenia	FET
+von Willebrand Diseases	FET
+"von Willebrand Disease, Type 1"	FET
+"von Willebrand Disease, Type 2"	FET
+"von Willebrand Disease, Type 3"	FET
+Wiskott-Aldrich Syndrome	FET
+Brugada Syndrome	FET
+CADASIL	FET
+Camurati-Engelmann Syndrome	FET
+"Cardiomyopathy, Hypertrophic, Familial"	FET
+CHARGE Syndrome	FET
+Cherubism	FET
+Chromosome Disorders	FET
+22q11 Deletion Syndrome	FET
+DiGeorge Syndrome	FET
+Angelman Syndrome	FET
+Beckwith-Wiedemann Syndrome	FET
+Branchio-Oto-Renal Syndrome	FET
+Cri-du-Chat Syndrome	FET
+De Lange Syndrome	FET
+Down Syndrome	FET
+Holoprosencephaly	FET
+Jacobsen Distal 11q Deletion Syndrome	FET
+Prader-Willi Syndrome	FET
+Rubinstein-Taybi Syndrome	FET
+Sex Chromosome Disorders	FET
+Fragile X Syndrome	FET
+Orofaciodigital Syndromes	FET
+Sex Chromosome Disorders of Sex Development	FET
+"Gonadal Dysgenesis, Mixed"	FET
+Klinefelter Syndrome	FET
+Turner Syndrome	FET
+Silver-Russell Syndrome	FET
+Smith-Magenis Syndrome	FET
+Sotos Syndrome	FET
+Trisomy 13 Syndrome	FET
+Trisomy 18 Syndrome	FET
+WAGR Syndrome	FET
+Williams Syndrome	FET
+Wolf-Hirschhorn Syndrome	FET
+Ciliopathies	FET
+Alstrom Syndrome	FET
+Bardet-Biedl Syndrome	FET
+Caroli Disease	FET
+Ciliary Motility Disorders	FET
+Kartagener Syndrome	FET
+Polycystic Kidney Diseases	FET
+"Polycystic Kidney, Autosomal Dominant"	FET
+"Polycystic Kidney, Autosomal Recessive"	FET
+von Hippel-Lindau Disease	FET
+Costello Syndrome	FET
+Cystic Fibrosis	FET
+Donohue Syndrome	FET
+Dwarfism	FET
+Achondroplasia	FET
+Thanatophoric Dysplasia	FET
+Cockayne Syndrome	FET
+Congenital Hypothyroidism	FET
+Laron Syndrome	FET
+Mulibrey Nanism	FET
+Silver-Russell Syndrome	FET
+"Eye Diseases, Hereditary"	FET
+Aicardi Syndrome	FET
+Albinism	FET
+"Albinism, Ocular"	FET
+"Albinism, Oculocutaneous"	FET
+Hermanski-Pudlak Syndrome	FET
+Piebaldism	FET
+Aniridia	FET
+WAGR Syndrome	FET
+Choroideremia	FET
+Cone-Rod Dystrophies	FET
+"Corneal Dystrophies, Hereditary"	FET
+"Corneal Dystrophy, Juvenile Epithelial of Meesmann"	FET
+Fuchs' Endothelial Dystrophy	FET
+Duane Retraction Syndrome	FET
+Familial Exudative Vitreoretinopathies	FET
+Graves Ophthalmopathy	FET
+Gyrate Atrophy	FET
+"Optic Atrophies, Hereditary"	FET
+"Optic Atrophy, Autosomal Dominant"	FET
+"Optic Atrophy, Hereditary, Leber"	FET
+Wolfram Syndrome	FET
+Optic Nerve Hypoplasia	FET
+Retinal Dysplasia	FET
+Retinitis Pigmentosa	FET
+Alstrom Syndrome	FET
+Usher Syndromes	FET
+Stargardt Disease	FET
+Vitelliform Macular Dystrophy	FET
+Weill-Marchesani Syndrome	FET
+Familial Multiple Lipomatosis	FET
+Frasier Syndrome	FET
+GATA2 Deficiency	FET
+"Genetic Diseases, X-Linked"	FET
+Aicardi Syndrome	FET
+Androgen-Insensitivity Syndrome	FET
+Barth Syndrome	FET
+"Bulbo-Spinal Atrophy, X-Linked"	FET
+Choroideremia	FET
+Dent Disease	FET
+Dyskeratosis Congenita	FET
+"Ectodermal Dysplasia 1, Anhidrotic"	FET
+Fabry Disease	FET
+Focal Dermal Hypoplasia	FET
+Glycogen Storage Disease Type IIb	FET
+Glycogen Storage Disease Type VIII	FET
+"Granulomatous Disease, Chronic"	FET
+Hemophilia B	FET
+"Hyper-IgM Immunodeficiency Syndrome, Type 1"	FET
+"Ichthyosis, X-Linked"	FET
+Isolated Noncompaction of the Ventricular Myocardium	FET
+X-Linked Intellectual Disability	FET
+Adrenoleukodystrophy	FET
+Classical Lissencephalies and Subcortical Band Heterotopias	FET
+Coffin-Lowry Syndrome	FET
+Fragile X Syndrome	FET
+Lesch-Nyhan Syndrome	FET
+Menkes Kinky Hair Syndrome	FET
+Mucopolysaccharidosis II	FET
+Pyruvate Dehydrogenase Complex Deficiency Disease	FET
+Rett Syndrome	FET
+"Muscular Dystrophy, Duchenne"	FET
+"Muscular Dystrophy, Emery-Dreifuss"	FET
+X-Linked Emery-Dreifuss Muscular Dystrophy	FET
+Oculocerebrorenal Syndrome	FET
+Ornithine Carbamoyltransferase Deficiency Disease	FET
+Pelizaeus-Merzbacher Disease	FET
+Wiskott-Aldrich Syndrome	FET
+X-Linked Combined Immunodeficiency Diseases	FET
+"Genetic Diseases, Y-Linked"	FET
+Hajdu-Cheney Syndrome	FET
+Hemoglobinopathies	FET
+"Anemia, Sickle Cell"	FET
+Acute Chest Syndrome	FET
+Hemoglobin SC Disease	FET
+Sickle Cell Trait	FET
+Vaso-Occlusive Crises	FET
+Hemoglobin C Disease	FET
+Thalassemia	FET
+alpha-Thalassemia	FET
+Hydrops Fetalis	FET
+beta-Thalassemia	FET
+delta-Thalassemia	FET
+Hereditary Autoinflammatory Diseases	FET
+Behcet Syndrome	FET
+Cryopyrin-Associated Periodic Syndromes	FET
+Familial Mediterranean Fever	FET
+Mevalonate Kinase Deficiency	FET
+"Heredodegenerative Disorders, Nervous System"	FET
+Alexander Disease	FET
+"Amyloid Neuropathies, Familial"	FET
+"Bulbo-Spinal Atrophy, X-Linked"	FET
+Canavan Disease	FET
+Cockayne Syndrome	FET
+Dystonia Musculorum Deformans	FET
+Gerstmann-Straussler-Scheinker Disease	FET
+Hepatolenticular Degeneration	FET
+Hereditary Central Nervous System Demyelinating Diseases	FET
+Hereditary Sensory and Motor Neuropathy	FET
+Alstrom Syndrome	FET
+Charcot-Marie-Tooth Disease	FET
+Giant Axonal Neuropathy	FET
+Refsum Disease	FET
+"Spastic Paraplegia, Hereditary"	FET
+Hereditary Sensory and Autonomic Neuropathies	FET
+"Dysautonomia, Familial"	FET
+Huntington Disease	FET
+Lafora Disease	FET
+X-Linked Intellectual Disability	FET
+Adrenoleukodystrophy	FET
+Coffin-Lowry Syndrome	FET
+Fragile X Syndrome	FET
+Lesch-Nyhan Syndrome	FET
+Menkes Kinky Hair Syndrome	FET
+Mucopolysaccharidosis II	FET
+Pyruvate Dehydrogenase Complex Deficiency Disease	FET
+Rett Syndrome	FET
+Myotonia Congenita	FET
+Myotonic Dystrophy	FET
+Neuroacanthocytosis	FET
+Neurofibromatoses	FET
+Neurofibromatosis 1	FET
+Neurofibromatosis 2	FET
+Neuronal Ceroid-Lipofuscinoses	FET
+"Optic Atrophies, Hereditary"	FET
+"Optic Atrophy, Autosomal Dominant"	FET
+"Optic Atrophy, Hereditary, Leber"	FET
+Wolfram Syndrome	FET
+Pantothenate Kinase-Associated Neurodegeneration	FET
+Spinal Muscular Atrophies of Childhood	FET
+Spinocerebellar Degenerations	FET
+Friedreich Ataxia	FET
+Myoclonic Cerebellar Dyssynergia	FET
+Olivopontocerebellar Atrophies	FET
+Spinocerebellar Ataxias	FET
+Machado-Joseph Disease	FET
+Tourette Syndrome	FET
+Tuberous Sclerosis	FET
+Unverricht-Lundborg Syndrome	FET
+Hyper-IgM Immunodeficiency Syndrome	FET
+"Hyperthyroxinemia, Familial Dysalbuminemic"	FET
+Imprinting Disorders	FET
+Angelman Syndrome	FET
+Beckwith-Wiedemann Syndrome	FET
+Prader-Willi Syndrome	FET
+Silver-Russell Syndrome	FET
+Kallmann Syndrome	FET
+Kartagener Syndrome	FET
+Laminopathies	FET
+Autosomal Emery-Dreifuss Muscular Dystrophy	FET
+"Cardiomyopathy, Dilated"	FET
+"Lipodystrophy, Familial Partial"	FET
+Progeria	FET
+Lennox Gastaut Syndrome	FET
+Loeys-Dietz Syndrome	FET
+Marfan Syndrome	FET
+"Metabolism, Inborn Errors"	FET
+"Amino Acid Metabolism, Inborn Errors"	FET
+Albinism	FET
+"Albinism, Ocular"	FET
+"Albinism, Oculocutaneous"	FET
+Hermanski-Pudlak Syndrome	FET
+Piebaldism	FET
+Alkaptonuria	FET
+"Hyperglycinemia, Nonketotic"	FET
+Hyperhomocysteinemia	FET
+Homocystinuria	FET
+Hyperlysinemias	FET
+Maple Syrup Urine Disease	FET
+Multiple Acyl Coenzyme A Dehydrogenase Deficiency	FET
+Multiple Carboxylase Deficiency	FET
+Biotinidase Deficiency	FET
+Holocarboxylase Synthetase Deficiency	FET
+Phenylketonurias	FET
+"Phenylketonuria, Maternal"	FET
+Prolidase Deficiency	FET
+Propionic Acidemia	FET
+Tyrosinemias	FET
+"Urea Cycle Disorders, Inborn"	FET
+Argininosuccinic Aciduria	FET
+Carbamoyl-Phosphate Synthase I Deficiency Disease	FET
+Citrullinemia	FET
+Hyperargininemia	FET
+Ornithine Carbamoyltransferase Deficiency Disease	FET
+"Amino Acid Transport Disorders, Inborn"	FET
+Hartnup Disease	FET
+Oculocerebrorenal Syndrome	FET
+"Amyloidosis, Familial"	FET
+"Amyloid Neuropathies, Familial"	FET
+"Cerebral Amyloid Angiopathy, Familial"	FET
+"Brain Diseases, Metabolic, Inborn"	FET
+Adrenoleukodystrophy	FET
+"Cerebral Amyloid Angiopathy, Familial"	FET
+Galactosemias	FET
+Hartnup Disease	FET
+Hepatolenticular Degeneration	FET
+Hereditary Central Nervous System Demyelinating Diseases	FET
+Adrenoleukodystrophy	FET
+Alexander Disease	FET
+Canavan Disease	FET
+"Leukodystrophy, Globoid Cell"	FET
+"Leukodystrophy, Metachromatic"	FET
+Pelizaeus-Merzbacher Disease	FET
+Homocystinuria	FET
+"Hyperglycinemia, Nonketotic"	FET
+Hyperlysinemias	FET
+Leigh Disease	FET
+Lesch-Nyhan Syndrome	FET
+"Lysosomal Storage Diseases, Nervous System"	FET
+Fucosidosis	FET
+Glycogen Storage Disease Type II	FET
+Mucolipidoses	FET
+Sialic Acid Storage Disease	FET
+Sphingolipidoses	FET
+Fabry Disease	FET
+Farber Lipogranulomatosis	FET
+Gangliosidoses	FET
+"Gangliosidoses, GM2"	FET
+Sandhoff Disease	FET
+Tay-Sachs Disease	FET
+"Tay-Sachs Disease, AB Variant"	FET
+"Gangliosidosis, GM1"	FET
+Gaucher Disease	FET
+"Leukodystrophy, Globoid Cell"	FET
+Niemann-Pick Diseases	FET
+"Niemann-Pick Disease, Type A"	FET
+"Niemann-Pick Disease, Type B"	FET
+"Niemann-Pick Disease, Type C"	FET
+Sea-Blue Histiocyte Syndrome	FET
+Sulfatidosis	FET
+"Leukodystrophy, Metachromatic"	FET
+Multiple Sulfatase Deficiency Disease	FET
+Maple Syrup Urine Disease	FET
+MELAS Syndrome	FET
+Menkes Kinky Hair Syndrome	FET
+MERRF Syndrome	FET
+Mevalonate Kinase Deficiency	FET
+Oculocerebrorenal Syndrome	FET
+Phenylketonurias	FET
+"Phenylketonuria, Maternal"	FET
+Pyruvate Carboxylase Deficiency Disease	FET
+Pyruvate Dehydrogenase Complex Deficiency Disease	FET
+Refsum Disease	FET
+"Refsum Disease, Infantile"	FET
+Tyrosinemias	FET
+"Urea Cycle Disorders, Inborn"	FET
+Argininosuccinic Aciduria	FET
+Carbamoyl-Phosphate Synthase I Deficiency Disease	FET
+Citrullinemia	FET
+Hyperargininemia	FET
+Ornithine Carbamoyltransferase Deficiency Disease	FET
+Zellweger Syndrome	FET
+"Carbohydrate Metabolism, Inborn Errors"	FET
+Congenital Disorders of Glycosylation	FET
+"Fructose Metabolism, Inborn Errors"	FET
+"Fructose-1,6-Diphosphatase Deficiency"	FET
+Fructose Intolerance	FET
+Fucosidosis	FET
+Galactosemias	FET
+Glucosephosphate Dehydrogenase Deficiency	FET
+Glycogen Storage Disease	FET
+Glycogen Storage Disease Type I	FET
+Glycogen Storage Disease Type II	FET
+Glycogen Storage Disease Type IIb	FET
+Glycogen Storage Disease Type III	FET
+Glycogen Storage Disease Type IV	FET
+Glycogen Storage Disease Type V	FET
+Glycogen Storage Disease Type VI	FET
+Glycogen Storage Disease Type VII	FET
+Glycogen Storage Disease Type VIII	FET
+"Hyperoxaluria, Primary"	FET
+Lactose Intolerance	FET
+Mannosidase Deficiency Diseases	FET
+alpha-Mannosidosis	FET
+beta-Mannosidosis	FET
+Mucolipidoses	FET
+Mucopolysaccharidoses	FET
+Mucopolysaccharidosis I	FET
+Mucopolysaccharidosis II	FET
+Mucopolysaccharidosis III	FET
+Mucopolysaccharidosis IV	FET
+Mucopolysaccharidosis VI	FET
+Mucopolysaccharidosis VII	FET
+Multiple Carboxylase Deficiency	FET
+Biotinidase Deficiency	FET
+Holocarboxylase Synthetase Deficiency	FET
+"Pyruvate Metabolism, Inborn Errors"	FET
+Leigh Disease	FET
+Pyruvate Carboxylase Deficiency Disease	FET
+Pyruvate Dehydrogenase Complex Deficiency Disease	FET
+Cytochrome-c Oxidase Deficiency	FET
+"Hyperbilirubinemia, Hereditary"	FET
+Crigler-Najjar Syndrome	FET
+Gilbert Disease	FET
+"Jaundice, Chronic Idiopathic"	FET
+"Lipid Metabolism, Inborn Errors"	FET
+Barth Syndrome	FET
+"Hyperlipidemia, Familial Combined"	FET
+Hyperlipoproteinemia Type I	FET
+Hyperlipoproteinemia Type II	FET
+Homozygous Familial Hypercholesterolemia	FET
+Hyperlipoproteinemia Type III	FET
+Hyperlipoproteinemia Type IV	FET
+Hyperlipoproteinemia Type V	FET
+Hypolipoproteinemias	FET
+Hypoalphalipoproteinemias	FET
+Lecithin Cholesterol Acyltransferase Deficiency	FET
+Tangier Disease	FET
+Hypobetalipoproteinemias	FET
+Abetalipoproteinemia	FET
+Lipidoses	FET
+Cholesterol Ester Storage Disease	FET
+Wolman Disease	FET
+Neuronal Ceroid-Lipofuscinoses	FET
+Sjogren-Larsson Syndrome	FET
+Sphingolipidoses	FET
+Fabry Disease	FET
+Farber Lipogranulomatosis	FET
+Gangliosidoses	FET
+"Gangliosidoses, GM2"	FET
+Sandhoff Disease	FET
+Tay-Sachs Disease	FET
+"Tay-Sachs Disease, AB Variant"	FET
+"Gangliosidosis, GM1"	FET
+Gaucher Disease	FET
+"Leukodystrophy, Globoid Cell"	FET
+Niemann-Pick Diseases	FET
+"Niemann-Pick Disease, Type A"	FET
+"Niemann-Pick Disease, Type B"	FET
+"Niemann-Pick Disease, Type C"	FET
+Sea-Blue Histiocyte Syndrome	FET
+Sulfatidosis	FET
+"Leukodystrophy, Metachromatic"	FET
+Multiple Sulfatase Deficiency Disease	FET
+"Lipodystrophy, Congenital Generalized"	FET
+Smith-Lemli-Opitz Syndrome	FET
+"Xanthomatosis, Cerebrotendinous"	FET
+Lysosomal Storage Diseases	FET
+Aspartylglucosaminuria	FET
+Cholesterol Ester Storage Disease	FET
+Wolman Disease	FET
+Cystinosis	FET
+"Lysosomal Storage Diseases, Nervous System"	FET
+Fucosidosis	FET
+Glycogen Storage Disease Type II	FET
+Mucolipidoses	FET
+Sialic Acid Storage Disease	FET
+Sphingolipidoses	FET
+Fabry Disease	FET
+Farber Lipogranulomatosis	FET
+Gangliosidoses	FET
+"Gangliosidoses, GM2"	FET
+Sandhoff Disease	FET
+Tay-Sachs Disease	FET
+"Tay-Sachs Disease, AB Variant"	FET
+"Gangliosidosis, GM1"	FET
+Gaucher Disease	FET
+"Leukodystrophy, Globoid Cell"	FET
+Niemann-Pick Diseases	FET
+"Niemann-Pick Disease, Type A"	FET
+"Niemann-Pick Disease, Type B"	FET
+"Niemann-Pick Disease, Type C"	FET
+Sea-Blue Histiocyte Syndrome	FET
+Sulfatidosis	FET
+"Leukodystrophy, Metachromatic"	FET
+Multiple Sulfatase Deficiency Disease	FET
+Mannosidase Deficiency Diseases	FET
+alpha-Mannosidosis	FET
+beta-Mannosidosis	FET
+Mucopolysaccharidoses	FET
+Mucopolysaccharidosis I	FET
+Mucopolysaccharidosis II	FET
+Mucopolysaccharidosis III	FET
+Mucopolysaccharidosis IV	FET
+Mucopolysaccharidosis VI	FET
+Mucopolysaccharidosis VII	FET
+Pycnodysostosis	FET
+"Metal Metabolism, Inborn Errors"	FET
+Hemochromatosis	FET
+Hepatolenticular Degeneration	FET
+Hypophosphatasia	FET
+"Hypophosphatemia, Familial"	FET
+Familial Hypophosphatemic Rickets	FET
+Menkes Kinky Hair Syndrome	FET
+"Paralyses, Familial Periodic"	FET
+Hypokalemic Periodic Paralysis	FET
+"Paralysis, Hyperkalemic Periodic"	FET
+Pseudohypoparathyroidism	FET
+Pseudopseudohypoparathyroidism	FET
+Peroxisomal Disorders	FET
+Acatalasia	FET
+Adrenoleukodystrophy	FET
+"Chondrodysplasia Punctata, Rhizomelic"	FET
+Mevalonate Kinase Deficiency	FET
+Refsum Disease	FET
+"Refsum Disease, Infantile"	FET
+Zellweger Syndrome	FET
+Progeria	FET
+"Purine-Pyrimidine Metabolism, Inborn Errors"	FET
+Dihydropyrimidine Dehydrogenase Deficiency	FET
+Gout	FET
+"Arthritis, Gouty"	FET
+Lesch-Nyhan Syndrome	FET
+"Renal Tubular Transport, Inborn Errors"	FET
+"Steroid Metabolism, Inborn Errors"	FET
+"Adrenal Hyperplasia, Congenital"	FET
+Antley-Bixler Syndrome Phenotype	FET
+"Ichthyosis, X-Linked"	FET
+"Mineralocorticoid Excess Syndrome, Apparent"	FET
+Smith-Lemli-Opitz Syndrome	FET
+Muscular Dystrophies	FET
+Distal Myopathies	FET
+Glycogen Storage Disease Type VII	FET
+"Muscular Dystrophies, Limb-Girdle"	FET
+Sarcoglycanopathies	FET
+"Muscular Dystrophy, Duchenne"	FET
+"Muscular Dystrophy, Emery-Dreifuss"	FET
+Autosomal Emery-Dreifuss Muscular Dystrophy	FET
+X-Linked Emery-Dreifuss Muscular Dystrophy	FET
+"Muscular Dystrophy, Facioscapulohumeral"	FET
+"Muscular Dystrophy, Oculopharyngeal"	FET
+Myotonic Dystrophy	FET
+Walker-Warburg Syndrome	FET
+"Myasthenic Syndromes, Congenital"	FET
+Nail-Patella Syndrome	FET
+"Neoplastic Syndromes, Hereditary"	FET
+Adenomatous Polyposis Coli	FET
+Gardner Syndrome	FET
+Basal Cell Nevus Syndrome	FET
+Birt-Hogg-Dube Syndrome	FET
+"Colorectal Neoplasms, Hereditary Nonpolyposis"	FET
+Lynch Syndrome II	FET
+Muir-Torre Syndrome	FET
+Dysplastic Nevus Syndrome	FET
+"Exostoses, Multiple Hereditary"	FET
+"Hamartoma Syndrome, Multiple"	FET
+Hereditary Breast and Ovarian Cancer Syndrome	FET
+Li-Fraumeni Syndrome	FET
+Multiple Endocrine Neoplasia	FET
+Multiple Endocrine Neoplasia Type 1	FET
+Multiple Endocrine Neoplasia Type 2a	FET
+Multiple Endocrine Neoplasia Type 2b	FET
+Neurofibromatoses	FET
+Neurofibromatosis 1	FET
+Neurofibromatosis 2	FET
+Peutz-Jeghers Syndrome	FET
+Tuberous Sclerosis	FET
+Wilms Tumor	FET
+Denys-Drash Syndrome	FET
+WAGR Syndrome	FET
+Oculocerebrorenal Syndrome	FET
+Orofaciodigital Syndromes	FET
+"Osteoarthropathy, Primary Hypertrophic"	FET
+Osteochondrodysplasias	FET
+Osteogenesis Imperfecta	FET
+"Pain Insensitivity, Congenital"	FET
+Pelger-Huet Anomaly	FET
+Primary Immunodeficiency Diseases	FET
+Ataxia Telangiectasia	FET
+Bloom Syndrome	FET
+Chediak-Higashi Syndrome	FET
+Hereditary Complement Deficiency Diseases	FET
+"Angioedemas, Hereditary"	FET
+Hyper-IgM Immunodeficiency Syndrome	FET
+"Hyper-IgM Immunodeficiency Syndrome, Type 1"	FET
+Job Syndrome	FET
+Leukocyte-Adhesion Deficiency Syndrome	FET
+Severe Combined Immunodeficiency	FET
+X-Linked Combined Immunodeficiency Diseases	FET
+Wiskott-Aldrich Syndrome	FET
+Pycnodysostosis	FET
+"Renal Tubular Transport, Inborn Errors"	FET
+"Acidosis, Renal Tubular"	FET
+Dent Disease	FET
+Fanconi Syndrome	FET
+Gitelman Syndrome	FET
+"Glycosuria, Renal"	FET
+"Hypophosphatemia, Familial"	FET
+Familial Hypophosphatemic Rickets	FET
+Liddle Syndrome	FET
+Oculocerebrorenal Syndrome	FET
+Pseudohypoaldosteronism	FET
+Renal Aminoacidurias	FET
+Cystinuria	FET
+Hartnup Disease	FET
+"Skin Diseases, Genetic"	FET
+Albinism	FET
+"Albinism, Ocular"	FET
+"Albinism, Oculocutaneous"	FET
+Hermanski-Pudlak Syndrome	FET
+Piebaldism	FET
+Cutis Laxa	FET
+Darier Disease	FET
+"Dermatitis, Atopic"	FET
+Dyskeratosis Congenita	FET
+Ectodermal Dysplasia	FET
+"Ectodermal Dysplasia 1, Anhidrotic"	FET
+"Ectodermal Dysplasia 3, Anhidrotic"	FET
+"Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive"	FET
+Ellis-Van Creveld Syndrome	FET
+Focal Dermal Hypoplasia	FET
+Focal Facial Dermal Dysplasias	FET
+Neurocutaneous Syndromes	FET
+Pachyonychia Congenita	FET
+Steatocystoma Multiplex	FET
+Ehlers-Danlos Syndrome	FET
+"Ehlers-Danlos Syndrome, Type IV"	FET
+Epidermolysis Bullosa	FET
+Epidermolysis Bullosa Dystrophica	FET
+"Epidermolysis Bullosa, Junctional"	FET
+Epidermolysis Bullosa Simplex	FET
+Erythrokeratodermia Variabilis	FET
+Hyaline Fibromatosis Syndrome	FET
+"Ichthyosiform Erythroderma, Congenital"	FET
+"Hyperkeratosis, Epidermolytic"	FET
+"Ichthyosis, Lamellar"	FET
+Ichthyosis Bullosa of Siemens	FET
+Ichthyosis Vulgaris	FET
+"Ichthyosis, X-Linked"	FET
+Incontinentia Pigmenti	FET
+"Keratoderma, Palmoplantar"	FET
+"Keratoderma, Palmoplantar, Diffuse"	FET
+"Keratoderma, Palmoplantar, Epidermolytic"	FET
+Papillon-Lefevre Disease	FET
+"Leukokeratosis, Hereditary Mucosal"	FET
+Lipoid Proteinosis of Urbach and Wiethe	FET
+Monilethrix	FET
+Netherton Syndrome	FET
+"Pemphigus, Benign Familial"	FET
+Porokeratosis	FET
+"Porphyria, Erythropoietic"	FET
+"Porphyrias, Hepatic"	FET
+"Coproporphyria, Hereditary"	FET
+"Porphyria, Acute Intermittent"	FET
+Porphyria Cutanea Tarda	FET
+"Porphyria, Hepatoerythropoietic"	FET
+"Porphyria, Variegate"	FET
+"Protoporphyria, Erythropoietic"	FET
+Prolidase Deficiency	FET
+Pseudoxanthoma Elasticum	FET
+Rothmund-Thomson Syndrome	FET
+Sjogren-Larsson Syndrome	FET
+Trichothiodystrophy Syndromes	FET
+Xeroderma Pigmentosum	FET
+Werner Syndrome	FET
+Yellow Nail Syndrome	FET
+"Hearing Loss, Sensorineural"	FET
+"Hearing Loss, Central"	FET
+"Hearing Loss, Noise-Induced"	FET
+Presbycusis	FET
+Usher Syndromes	FET
+Hepatic Veno-Occlusive Disease	FET
+Hydrocephalus	FET
+Dandy-Walker Syndrome	FET
+"Hydrocephalus, Normal Pressure"	FET
+Iron-Sulfur Proteins	FET
+Adrenodoxin	FET
+Electron Transport Complex I	FET
+NADH Dehydrogenase	FET
+Electron Transport Complex II	FET
+Succinate Dehydrogenase	FET
+Electron Transport Complex III	FET
+Ferredoxin-Nitrite Reductase	FET
+Ferredoxins	FET
+Molybdoferredoxin	FET
+Rubredoxins	FET
+Ferrochelatase	FET
+Frataxin	FET
+Iron Regulatory Protein 1	FET
+Iron Regulatory Protein 2	FET
+Nitrate Reductase (NAD(P)H)	FET
+Nitrate Reductase (NADPH)	FET
+Methemoglobinemia	FET
+Microcephaly	FET
+Porencephaly	FET
+Mitochondria	FET
+"Mitochondria, Liver"	FET
+"Mitochondria, Muscle"	FET
+"Mitochondria, Heart"	FET
+Mitochondrial Ribosomes	FET
+Submitochondrial Particles	FET
+Mitochondrial Diseases	FET
+Carbamoyl-Phosphate Synthase I Deficiency Disease	FET
+Cytochrome-c Oxidase Deficiency	FET
+Friedreich Ataxia	FET
+Leigh Disease	FET
+Mitochondrial Myopathies	FET
+Mitochondrial Encephalomyopathies	FET
+MELAS Syndrome	FET
+MERRF Syndrome	FET
+"Ophthalmoplegia, Chronic Progressive External"	FET
+Kearns-Sayre Syndrome	FET
+Multiple Acyl Coenzyme A Dehydrogenase Deficiency	FET
+"Optic Atrophy, Autosomal Dominant"	FET
+"Optic Atrophy, Hereditary, Leber"	FET
+Pyruvate Carboxylase Deficiency Disease	FET
+Pyruvate Dehydrogenase Complex Deficiency Disease	FET
+Mitochondrial Proteins	FET
+"Aldehyde Dehydrogenase, Mitochondrial"	FET
+ATPase Inhibitory Protein	FET
+"Creatine Kinase, Mitochondrial Form"	FET
+DNA Polymerase gamma	FET
+Endopeptidase Clp	FET
+Ferrochelatase	FET
+Frataxin	FET
+High-Temperature Requirement A Serine Peptidase 2	FET
+Mitochondrial Membrane Transport Proteins	FET
+"Mitochondrial ADP, ATP Translocases"	FET
+Adenine Nucleotide Translocator 1	FET
+Adenine Nucleotide Translocator 2	FET
+Adenine Nucleotide Translocator 3	FET
+Mitochondrial Permeability Transition Pore	FET
+Mitochondrial Precursor Protein Import Complex Proteins	FET
+Mitochondrial Proton-Translocating ATPases	FET
+Mitochondrial Uncoupling Proteins	FET
+Uncoupling Protein 1	FET
+Uncoupling Protein 2	FET
+Uncoupling Protein 3	FET
+"Solute Carrier Family 44, Member 2 Protein"	FET
+Steroidogenic Acute Regulatory Protein	FET
+Voltage-Dependent Anion Channel 1	FET
+Voltage-Dependent Anion Channel 2	FET
+Mitochondrial Processing Peptidase	FET
+Mitochondrial Trifunctional Protein	FET
+"Mitochondrial Trifunctional Protein, alpha Subunit"	FET
+"Mitochondrial Trifunctional Protein, beta Subunit"	FET
+Nucleoside Diphosphate Kinase D	FET
+Peroxiredoxin III	FET
+Prohibitins	FET
+Sirtuin 3	FET
+"Myopathies, Structural, Congenital"	FET
+"Myopathies, Nemaline"	FET
+"Myopathy, Central Core"	FET
+Perinatal Death	FET
+Vitamin D Deficiency  	FET
+Rickets  	FET
+Osteomalacia  	FET
+Chronic Kidney Disease-Mineral and Bone Disorder  	FET
+"Rickets, Hypophosphatemic  "	FET
+Familial Hypophosphatemic Rickets  	FET
+"Acyl-CoA Dehydrogenase Family, Member 9, Deficiency of"	FET
+Bowen-Conradi syndrome	FET
+Brown-Vialetto-Van Laere syndrome	FET
+Glutaric Acidemia I	FET
+PEHO syndrome	FET
+Urocanase deficiency	FET
+Hypoparathyroidism	HOT
+22q11 Deletion Syndrome	HOT
+DiGeorge Syndrome	HOT
+Hyperparathyroidism	HPT
+"Hyperparathyroidism, Primary"	HPT
+"Hyperparathyroidism, Secondary"	HPT
+Chronic Kidney Disease-Mineral and Bone Disorder	HPT
+Abetalipoproteinemia	INT
+"Acidosis, Lactic"	INT
+Alzheimer Disease	INT
+Amino Acyl-tRNA Synthetases	INT
+Alanine-tRNA Ligase	INT
+Arginine-tRNA Ligase	INT
+Aspartate-tRNA Ligase	INT
+Glutamate-tRNA Ligase	INT
+Glycine-tRNA Ligase	INT
+Histidine-tRNA Ligase	INT
+Isoleucine-tRNA Ligase	INT
+Leucine-tRNA Ligase	INT
+Lysine-tRNA Ligase	INT
+Methionine-tRNA Ligase	INT
+Phenylalanine-tRNA Ligase	INT
+Serine-tRNA Ligase	INT
+Threonine-tRNA Ligase	INT
+Tryptophan-tRNA Ligase	INT
+Tyrosine-tRNA Ligase	INT
+Valine-tRNA Ligase	INT
+Autoimmune Diseases of the Nervous System	INT
+"Demyelinating Autoimmune Diseases, CNS"	INT
+Diffuse Cerebral Sclerosis of Schilder	INT
+"Encephalomyelitis, Acute Disseminated"	INT
+"Leukoencephalitis, Acute Hemorrhagic"	INT
+Multiple Sclerosis	INT
+"Multiple Sclerosis, Chronic Progressive"	INT
+"Multiple Sclerosis, Relapsing-Remitting"	INT
+"Myelitis, Transverse"	INT
+Neuromyelitis Optica	INT
+Neuromyelitis Optica	INT
+Myasthenia Gravis	INT
+Lambert-Eaton Myasthenic Syndrome	INT
+"Myasthenia Gravis, Autoimmune, Experimental"	INT
+"Myasthenia Gravis, Neonatal"	INT
+"Nervous System Autoimmune Disease, Experimental"	INT
+"Encephalomyelitis, Autoimmune, Experimental"	INT
+"Myasthenia Gravis, Autoimmune, Experimental"	INT
+"Neuritis, Autoimmune, Experimental"	INT
+Polyradiculoneuropathy	INT
+Guillain-Barre Syndrome	INT
+"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating"	INT
+Stiff-Person Syndrome	INT
+Uveomeningoencephalitic Syndrome	INT
+"Vasculitis, Central Nervous System"	INT
+"AIDS Arteritis, Central Nervous System"	INT
+Giant Cell Arteritis	INT
+"Lupus Vasculitis, Central Nervous System"	INT
+Cataract	INT
+Capsule Opacification	INT
+Cerebellar Diseases	INT
+Cerebellar Ataxia	INT
+Spinocerebellar Ataxias	INT
+Ataxia Telangiectasia	INT
+Machado-Joseph Disease	INT
+Cerebellar Cognitive Affective Syndrome	INT
+Cerebellar Neoplasms	INT
+Dandy-Walker Syndrome	INT
+Miller Fisher Syndrome	INT
+Paraneoplastic Cerebellar Degeneration	INT
+Spinocerebellar Degenerations	INT
+Friedreich Ataxia	INT
+Myoclonic Cerebellar Dyssynergia	INT
+Olivopontocerebellar Atrophies	INT
+Spinocerebellar Ataxias	INT
+Machado-Joseph Disease	INT
+Cognitive Dysfunction  	INT
+Chemotherapy-Related Cognitive Impairment  	INT
+Postoperative Cognitive Complications  	INT
+Congenital Disorders of Glycosylation	INT
+Epilepsy	INT
+Drug Resistant Epilepsy	INT
+"Epilepsies, Partial"	INT
+"Epilepsy, Complex Partial"	INT
+"Epilepsy, Frontal Lobe"	INT
+"Epilepsy, Partial, Motor"	INT
+"Epilepsy, Partial, Sensory"	INT
+"Epilepsy, Rolandic"	INT
+"Epilepsy, Temporal Lobe"	INT
+"Epilepsy, Benign Neonatal"	INT
+"Epilepsy, Generalized"	INT
+"Epilepsies, Myoclonic"	INT
+"Myoclonic Epilepsies, Progressive"	INT
+Lafora Disease	INT
+MERRF Syndrome	INT
+Unverricht-Lundborg Syndrome	INT
+"Myoclonic Epilepsy, Juvenile"	INT
+"Epilepsy, Absence"	INT
+"Epilepsy, Tonic-Clonic"	INT
+Nodding Syndrome	INT
+"Spasms, Infantile"	INT
+"Epilepsy, Post-Traumatic"	INT
+"Epilepsy, Reflex"	INT
+Epileptic Syndromes	INT
+"Epilepsies, Myoclonic"	INT
+"Myoclonic Epilepsies, Progressive"	INT
+Lafora Disease	INT
+MERRF Syndrome	INT
+Unverricht-Lundborg Syndrome	INT
+"Myoclonic Epilepsy, Juvenile"	INT
+"Epilepsy, Absence"	INT
+"Epilepsy, Frontal Lobe"	INT
+"Epilepsy, Rolandic"	INT
+"Epilepsy, Temporal Lobe"	INT
+Landau-Kleffner Syndrome	INT
+Lennox Gastaut Syndrome	INT
+"Spasms, Infantile"	INT
+Sudden Unexpected Death in Epilepsy	INT
+"Hearing Loss, Sensorineural"	INT
+"Hearing Loss, Central"	INT
+"Hearing Loss, Noise-Induced"	INT
+Presbycusis	INT
+Usher Syndromes	INT
+Hermanski-Pudlak Syndrome	INT
+"Hyperglycinemia, Nonketotic"	INT
+Iron-Sulfur Proteins	INT
+Adrenodoxin	INT
+Electron Transport Complex I	INT
+NADH Dehydrogenase	INT
+Electron Transport Complex II	INT
+Succinate Dehydrogenase	INT
+Electron Transport Complex III	INT
+Ferredoxin-Nitrite Reductase	INT
+Ferredoxins	INT
+Molybdoferredoxin	INT
+Rubredoxins	INT
+Ferrochelatase	INT
+Frataxin	INT
+Iron Regulatory Protein 1	INT
+Iron Regulatory Protein 2	INT
+Nitrate Reductase (NAD(P)H)	INT
+Nitrate Reductase (NADPH)	INT
+Microcephaly	INT
+Porencephaly	INT
+Mitochondria	INT
+"Mitochondria, Liver"	INT
+"Mitochondria, Muscle"	INT
+"Mitochondria, Heart"	INT
+Mitochondrial Ribosomes	INT
+Submitochondrial Particles	INT
+Mitochondrial Diseases	INT
+Carbamoyl-Phosphate Synthase I Deficiency Disease	INT
+Cytochrome-c Oxidase Deficiency	INT
+Friedreich Ataxia	INT
+Leigh Disease	INT
+Mitochondrial Myopathies	INT
+Mitochondrial Encephalomyopathies	INT
+MELAS Syndrome	INT
+MERRF Syndrome	INT
+"Ophthalmoplegia, Chronic Progressive External"	INT
+Kearns-Sayre Syndrome	INT
+Multiple Acyl Coenzyme A Dehydrogenase Deficiency	INT
+"Optic Atrophy, Autosomal Dominant"	INT
+"Optic Atrophy, Hereditary, Leber"	INT
+Pyruvate Carboxylase Deficiency Disease	INT
+Pyruvate Dehydrogenase Complex Deficiency Disease	INT
+Mitochondrial Proteins	INT
+"Aldehyde Dehydrogenase, Mitochondrial"	INT
+ATPase Inhibitory Protein	INT
+"Creatine Kinase, Mitochondrial Form"	INT
+DNA Polymerase gamma	INT
+Endopeptidase Clp	INT
+Ferrochelatase	INT
+Frataxin	INT
+High-Temperature Requirement A Serine Peptidase 2	INT
+Mitochondrial Membrane Transport Proteins	INT
+"Mitochondrial ADP, ATP Translocases"	INT
+Adenine Nucleotide Translocator 1	INT
+Adenine Nucleotide Translocator 2	INT
+Adenine Nucleotide Translocator 3	INT
+Mitochondrial Permeability Transition Pore	INT
+Mitochondrial Precursor Protein Import Complex Proteins	INT
+Mitochondrial Proton-Translocating ATPases	INT
+Mitochondrial Uncoupling Proteins	INT
+Uncoupling Protein 1	INT
+Uncoupling Protein 2	INT
+Uncoupling Protein 3	INT
+"Solute Carrier Family 44, Member 2 Protein"	INT
+Steroidogenic Acute Regulatory Protein	INT
+Voltage-Dependent Anion Channel 1	INT
+Voltage-Dependent Anion Channel 2	INT
+Mitochondrial Processing Peptidase	INT
+Mitochondrial Trifunctional Protein	INT
+"Mitochondrial Trifunctional Protein, alpha Subunit"	INT
+"Mitochondrial Trifunctional Protein, beta Subunit"	INT
+Nucleoside Diphosphate Kinase D	INT
+Peroxiredoxin III	INT
+Prohibitins	INT
+Sirtuin 3	INT
+Multiple Acyl Coenzyme A Dehydrogenase Deficiency	INT
+"Myopathies, Structural, Congenital"	INT
+"Myopathies, Nemaline"	INT
+"Myopathy, Central Core"	INT
+Neurobehavioral Manifestations	INT
+Anhedonia	INT
+Catatonia	INT
+Communication Disorders	INT
+Language Disorders	INT
+Agraphia	INT
+Anomia	INT
+Dyslexia	INT
+"Dyslexia, Acquired"	INT
+"Alexia, Pure"	INT
+Language Development Disorders	INT
+Specific Language Disorder	INT
+Speech Disorders	INT
+Aphasia	INT
+"Aphasia, Broca"	INT
+"Aphasia, Conduction"	INT
+"Aphasia, Primary Progressive"	INT
+Primary Progressive Nonfluent Aphasia	INT
+"Aphasia, Wernicke"	INT
+Articulation Disorders	INT
+Dysarthria	INT
+Echolalia	INT
+Mutism	INT
+Stuttering	INT
+Learning Disabilities	INT
+Specific Language Disorder	INT
+Specific Learning Disorder	INT
+Agraphia	INT
+Dyscalculia	INT
+Dyslexia	INT
+"Dyslexia, Acquired"	INT
+Confusion	INT
+Delirium	INT
+Emergence Delirium	INT
+Consciousness Disorders	INT
+Unconsciousness	INT
+Coma	INT
+Brain Death	INT
+"Coma, Post-Head Injury"	INT
+Insulin Coma	INT
+Persistent Vegetative State	INT
+Stupor	INT
+Syncope	INT
+"Syncope, Vasovagal"	INT
+Intellectual Disability	INT
+Cri-du-Chat Syndrome	INT
+De Lange Syndrome	INT
+Down Syndrome	INT
+X-Linked Intellectual Disability	INT
+Adrenoleukodystrophy	INT
+Coffin-Lowry Syndrome	INT
+Fragile X Syndrome	INT
+Glycogen Storage Disease Type IIb	INT
+Lesch-Nyhan Syndrome	INT
+Menkes Kinky Hair Syndrome	INT
+Mucopolysaccharidosis II	INT
+Pyruvate Dehydrogenase Complex Deficiency Disease	INT
+Rett Syndrome	INT
+Prader-Willi Syndrome	INT
+Rubinstein-Taybi Syndrome	INT
+Trisomy 13 Syndrome	INT
+WAGR Syndrome	INT
+Williams Syndrome	INT
+Lethargy	INT
+Mania	INT
+Memory Disorders	INT
+Amnesia	INT
+Korsakoff Syndrome	INT
+Alcoholic Korsakoff Syndrome	INT
+Perceptual Disorders	INT
+Agnosia	INT
+Gerstmann Syndrome	INT
+Prosopagnosia	INT
+Alice in Wonderland Syndrome	INT
+Allesthesia	INT
+Auditory Perceptual Disorders	INT
+Hallucinations	INT
+Charles Bonnet Syndrome	INT
+Illusions	INT
+Phantom Limb	INT
+Synesthesia	INT
+Psychomotor Disorders	INT
+Apraxias	INT
+Alien Limb Phenomenon	INT
+"Apraxia, Ideomotor"	INT
+Gait Apraxia	INT
+Psychomotor Agitation	INT
+Neurodevelopmental Disorders	INT
+"Anxiety, Separation"	INT
+Attention Deficit and Disruptive Behavior Disorders	INT
+Attention Deficit Disorder with Hyperactivity	INT
+Conduct Disorder	INT
+Oppositional Defiant Disorder	INT
+Sluggish Cognitive Tempo	INT
+Child Behavior Disorders	INT
+"Child Development Disorders, Pervasive"	INT
+Autism Spectrum Disorder	INT
+Asperger Syndrome	INT
+Autistic Disorder	INT
+Communication Disorders	INT
+Childhood-Onset Fluency Disorder	INT
+Learning Disabilities	INT
+Specific Language Disorder	INT
+Specific Learning Disorder	INT
+Agraphia	INT
+Dyscalculia	INT
+Dyslexia	INT
+"Dyslexia, Acquired"	INT
+Social Communication Disorder	INT
+Speech Sound Disorder	INT
+Developmental Disabilities	INT
+Intellectual Disability	INT
+Learning Disabilities	INT
+Specific Learning Disorder	INT
+Motor Skills Disorders	INT
+Mutism	INT
+Reactive Attachment Disorder	INT
+"Schizophrenia, Childhood"	INT
+Stereotypic Movement Disorder	INT
+Tic Disorders	INT
+Tourette Syndrome	INT
+"Myopathies, Structural, Congenital"	INT
+"Myopathies, Nemaline"	INT
+"Myopathy, Central Core"	INT
+Osteitis Deformans	INT
+Hepatic Veno-Occlusive Disease	INT
+Hydrocephalus	INT
+Dandy-Walker Syndrome	INT
+"Hydrocephalus, Normal Pressure"	INT
+Cerebral Small Vessel Diseases	INT
+CADASIL	INT
+"Cerebral Amyloid Angiopathy, Familial"	INT
+Fabry Disease	INT
+MELAS Syndrome	INT
+Microscopic Polyangiitis	INT
+"Stroke, Lacunar"	INT
+Hypoparathyroidism	INT
+22q11 Deletion Syndrome	INT
+DiGeorge Syndrome	INT
+Hyperparathyroidism	INT
+"Hyperparathyroidism, Primary"	INT
+"Hyperparathyroidism, Secondary"	INT
+Chronic Kidney Disease-Mineral and Bone Disorder	INT
+Neurodevelopmental Disorders	INT
+"Anxiety, Separation"	INT
+Attention Deficit and Disruptive Behavior Disorders	INT
+Attention Deficit Disorder with Hyperactivity	INT
+Conduct Disorder	INT
+Oppositional Defiant Disorder	INT
+Sluggish Cognitive Tempo	INT
+Child Behavior Disorders	INT
+"Child Development Disorders, Pervasive"	INT
+Autism Spectrum Disorder	INT
+Asperger Syndrome	INT
+Autistic Disorder	INT
+Communication Disorders	INT
+Childhood-Onset Fluency Disorder	INT
+Learning Disabilities	INT
+Specific Language Disorder	INT
+Specific Learning Disorder	INT
+Agraphia	INT
+Dyscalculia	INT
+Dyslexia	INT
+"Dyslexia, Acquired"	INT
+Social Communication Disorder	INT
+Speech Sound Disorder	INT
+Developmental Disabilities	INT
+Intellectual Disability	INT
+Learning Disabilities	INT
+Specific Learning Disorder	INT
+Agraphia	INT
+Dyscalculia	INT
+Dyslexia	INT
+"Dyslexia, Acquired"	INT
+Motor Skills Disorders	INT
+Mutism	INT
+Reactive Attachment Disorder	INT
+"Schizophrenia, Childhood"	INT
+Stereotypic Movement Disorder	INT
+Tic Disorders	INT
+Tourette Syndrome	INT
+Wolf-Hirschhorn Syndrome	INT
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency	INT
+3-Methylglutaconic Aciduria	INT
+Adams Oliver syndrome	INT
+Amish lethal microcephaly	INT
+Amish lethal microcephaly	INT
+Pontocerebellar Hypoplasia	INT
+"Acidosis, Lactic"	MIT
+Iron-Sulfur Proteins	MIT
+Adrenodoxin	MIT
+Electron Transport Complex I	MIT
+NADH Dehydrogenase	MIT
+Electron Transport Complex II	MIT
+Succinate Dehydrogenase	MIT
+Electron Transport Complex III	MIT
+Ferredoxin-Nitrite Reductase	MIT
+Ferredoxins	MIT
+Molybdoferredoxin	MIT
+Rubredoxins	MIT
+Ferrochelatase	MIT
+Frataxin	MIT
+Iron Regulatory Protein 1	MIT
+Iron Regulatory Protein 2	MIT
+Nitrate Reductase (NAD(P)H)	MIT
+Nitrate Reductase (NADPH)	MIT
+Mitochondria	MIT
+"Mitochondria, Liver"	MIT
+"Mitochondria, Muscle"	MIT
+"Mitochondria, Heart"	MIT
+Mitochondrial Ribosomes	MIT
+Submitochondrial Particles	MIT
+Mitochondrial Diseases	MIT
+Carbamoyl-Phosphate Synthase I Deficiency Disease	MIT
+Cytochrome-c Oxidase Deficiency	MIT
+Friedreich Ataxia	MIT
+Leigh Disease	MIT
+Mitochondrial Myopathies	MIT
+Mitochondrial Encephalomyopathies	MIT
+MELAS Syndrome	MIT
+MERRF Syndrome	MIT
+"Ophthalmoplegia, Chronic Progressive External"	MIT
+Kearns-Sayre Syndrome	MIT
+Multiple Acyl Coenzyme A Dehydrogenase Deficiency	MIT
+"Optic Atrophy, Autosomal Dominant"	MIT
+"Optic Atrophy, Hereditary, Leber"	MIT
+Pyruvate Carboxylase Deficiency Disease	MIT
+Pyruvate Dehydrogenase Complex Deficiency Disease	MIT
+Mitochondrial Proteins	MIT
+"Aldehyde Dehydrogenase, Mitochondrial"	MIT
+ATPase Inhibitory Protein	MIT
+"Creatine Kinase, Mitochondrial Form"	MIT
+DNA Polymerase gamma	MIT
+Endopeptidase Clp	MIT
+Ferrochelatase	MIT
+Frataxin	MIT
+High-Temperature Requirement A Serine Peptidase 2	MIT
+Mitochondrial Membrane Transport Proteins	MIT
+"Mitochondrial ADP, ATP Translocases"	MIT
+Adenine Nucleotide Translocator 1	MIT
+Adenine Nucleotide Translocator 2	MIT
+Adenine Nucleotide Translocator 3	MIT
+Mitochondrial Permeability Transition Pore	MIT
+Mitochondrial Precursor Protein Import Complex Proteins	MIT
+Mitochondrial Proton-Translocating ATPases	MIT
+Mitochondrial Uncoupling Proteins	MIT
+Uncoupling Protein 1	MIT
+Uncoupling Protein 2	MIT
+Uncoupling Protein 3	MIT
+"Solute Carrier Family 44, Member 2 Protein"	MIT
+Steroidogenic Acute Regulatory Protein	MIT
+Voltage-Dependent Anion Channel 1	MIT
+Voltage-Dependent Anion Channel 2	MIT
+Mitochondrial Processing Peptidase	MIT
+Mitochondrial Trifunctional Protein	MIT
+"Mitochondrial Trifunctional Protein, alpha Subunit"	MIT
+"Mitochondrial Trifunctional Protein, beta Subunit"	MIT
+Nucleoside Diphosphate Kinase D	MIT
+Peroxiredoxin III	MIT
+Prohibitins	MIT
+Sirtuin 3	MIT
+Cardiomyopathies	NEU
+Arrhythmogenic Right Ventricular Dysplasia	NEU
+"Cardiomyopathy, Alcoholic"	NEU
+"Cardiomyopathy, Dilated"	NEU
+"Cardiomyopathy, Hypertrophic"	NEU
+Apical Hypertrophic Cardiomyopathy	NEU
+"Cardiomyopathy, Hypertrophic, Familial"	NEU
+"Cardiomyopathy, Restrictive"	NEU
+Chagas Cardiomyopathy	NEU
+Diabetic Cardiomyopathies	NEU
+Endocardial Fibroelastosis	NEU
+Isolated Noncompaction of the Ventricular Myocardium	NEU
+Endomyocardial Fibrosis	NEU
+Glycogen Storage Disease Type IIb	NEU
+Kearns-Sayre Syndrome	NEU
+Myocardial Reperfusion Injury	NEU
+Myocarditis	NEU
+Peripartum Cardiomyopathy	NEU
+Sarcoglycanopathies	NEU
+Takotsubo Cardiomyopathy	NEU
+Cerebellar Ataxia	NEU
+Spinocerebellar Ataxias	NEU
+Ataxia Telangiectasia	NEU
+Machado-Joseph Disease	NEU
+Cockayne Syndrome	NEU
+"Coproporphyria, Hereditary"	NEU
+Demyelinating Diseases	NEU
+"Demyelinating Autoimmune Diseases, CNS"	NEU
+Diffuse Cerebral Sclerosis of Schilder	NEU
+"Encephalomyelitis, Acute Disseminated"	NEU
+"Leukoencephalitis, Acute Hemorrhagic"	NEU
+"Encephalomyelitis, Autoimmune, Experimental"	NEU
+Multiple Sclerosis	NEU
+"Multiple Sclerosis, Chronic Progressive"	NEU
+"Multiple Sclerosis, Relapsing-Remitting"	NEU
+"Myelitis, Transverse"	NEU
+Neuromyelitis Optica	NEU
+Neuromyelitis Optica	NEU
+Hereditary Central Nervous System Demyelinating Diseases	NEU
+Adrenoleukodystrophy	NEU
+Alexander Disease	NEU
+Canavan Disease	NEU
+"Leukodystrophy, Globoid Cell"	NEU
+"Leukodystrophy, Metachromatic"	NEU
+Pelizaeus-Merzbacher Disease	NEU
+"Leukoencephalopathy, Progressive Multifocal"	NEU
+Marchiafava-Bignami Disease	NEU
+"Myelinolysis, Central Pontine"	NEU
+Ophthalmoplegic Migraine	NEU
+Polyradiculoneuropathy	NEU
+Guillain-Barre Syndrome	NEU
+Miller Fisher Syndrome	NEU
+"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating"	NEU
+Subacute Combined Degeneration	NEU
+Motor Neuron Disease	NEU
+Amyotrophic Lateral Sclerosis	NEU
+"Bulbar Palsy, Progressive"	NEU
+"Muscular Atrophy, Spinal"	NEU
+"Bulbo-Spinal Atrophy, X-Linked"	NEU
+Spinal Muscular Atrophies of Childhood	NEU
+"Myopathies, Structural, Congenital"	NEU
+"Myopathies, Nemaline"	NEU
+"Myopathy, Central Core"	NEU
+Neuroacanthocytosis	NEU
+Neuroaxonal Dystrophies	NEU
+Pantothenate Kinase-Associated Neurodegeneration	NEU
+Pain  	NEU
+Abdominal Pain  	NEU
+"Abdomen, Acute  "	NEU
+Acute Pain  	NEU
+Arthralgia  	NEU
+Shoulder Pain  	NEU
+Back Pain  	NEU
+Failed Back Surgery Syndrome  	NEU
+Low Back Pain  	NEU
+Breakthrough Pain  	NEU
+Cancer Pain  	NEU
+Chest Pain  	NEU
+Angina Pectoris  	NEU
+"Angina, Unstable  "	NEU
+"Angina Pectoris, Variant  "	NEU
+"Angina, Stable  "	NEU
+Chronic Pain  	NEU
+Earache  	NEU
+Eye Pain  	NEU
+Facial Pain  	NEU
+Toothache  	NEU
+Flank Pain  	NEU
+Glossalgia  	NEU
+Headache  	NEU
+Slit Ventricle Syndrome  	NEU
+Labor Pain  	NEU
+Mastodynia  	NEU
+Metatarsalgia  	NEU
+Morton Neuroma  	NEU
+Musculoskeletal Pain  	NEU
+Myalgia  	NEU
+Pelvic Girdle Pain  	NEU
+Neck Pain  	NEU
+Neuralgia  	NEU
+Morton Neuroma  	NEU
+"Neuralgia, Postherpetic  "	NEU
+Piriformis Muscle Syndrome  	NEU
+Pudendal Neuralgia  	NEU
+Sciatica  	NEU
+Nociceptive Pain  	NEU
+Visceral Pain  	NEU
+Nociplastic Pain  	NEU
+"Pain, Intractable  "	NEU
+"Pain, Postoperative  "	NEU
+Phantom Limb  	NEU
+"Pain, Procedural  "	NEU
+"Pain, Referred  "	NEU
+Pelvic Pain  	NEU
+Dysmenorrhea  	NEU
+Pelvic Girdle Pain  	NEU
+Piriformis Muscle Syndrome  	NEU
+Renal Colic  	NEU
+Parkinsonian Disorders	NEU
+Lewy Body Disease	NEU
+Parkinson Disease	NEU
+"Parkinson Disease, Secondary"	NEU
+MPTP Poisoning	NEU
+"Parkinson Disease, Postencephalitic"	NEU
+Peripheral Nervous System Diseases	NEU
+Acrodynia	NEU
+Amyloid Neuropathies	NEU
+"Amyloid Neuropathies, Familial"	NEU
+Brachial Plexus Neuropathies	NEU
+Brachial Plexus Neuritis	NEU
+Neonatal Brachial Plexus Palsy	NEU
+Complex Regional Pain Syndromes	NEU
+Causalgia	NEU
+Reflex Sympathetic Dystrophy	NEU
+Diabetic Neuropathies	NEU
+Giant Axonal Neuropathy	NEU
+Hand-Arm Vibration Syndrome	NEU
+Isaacs Syndrome	NEU
+Mononeuropathies	NEU
+Femoral Neuropathy	NEU
+Median Neuropathy	NEU
+Carpal Tunnel Syndrome	NEU
+Peroneal Neuropathies	NEU
+Radial Neuropathy	NEU
+Sciatic Neuropathy	NEU
+Piriformis Muscle Syndrome	NEU
+Sciatica	NEU
+Tibial Neuropathy	NEU
+Tarsal Tunnel Syndrome	NEU
+Ulnar Neuropathies	NEU
+Cubital Tunnel Syndrome	NEU
+Ulnar Nerve Compression Syndromes	NEU
+Nerve Compression Syndromes	NEU
+Carpal Tunnel Syndrome	NEU
+Cauda Equina Syndrome	NEU
+Piriformis Muscle Syndrome	NEU
+Pudendal Neuralgia	NEU
+Tarsal Tunnel Syndrome	NEU
+Thoracic Outlet Syndrome	NEU
+Cervical Rib Syndrome	NEU
+Ulnar Nerve Compression Syndromes	NEU
+Cubital Tunnel Syndrome	NEU
+Neuralgia	NEU
+Causalgia	NEU
+Morton Neuroma	NEU
+"Neuralgia, Postherpetic"	NEU
+Piriformis Muscle Syndrome	NEU
+Pudendal Neuralgia	NEU
+Sciatica	NEU
+Neuritis	NEU
+Brachial Plexus Neuritis	NEU
+"Neuritis, Autoimmune, Experimental"	NEU
+Neurofibromatosis 1	NEU
+"Pain Insensitivity, Congenital"	NEU
+Peripheral Nerve Injuries	NEU
+Peripheral Nervous System Neoplasms	NEU
+Nerve Sheath Neoplasms	NEU
+Neurofibroma	NEU
+"Neurofibroma, Plexiform"	NEU
+Neurofibrosarcoma	NEU
+Polyneuropathies	NEU
+Alcoholic Neuropathy	NEU
+Hereditary Sensory and Autonomic Neuropathies	NEU
+"Dysautonomia, Familial"	NEU
+Hereditary Sensory and Motor Neuropathy	NEU
+Alstrom Syndrome	NEU
+Charcot-Marie-Tooth Disease	NEU
+Giant Axonal Neuropathy	NEU
+Refsum Disease	NEU
+"Spastic Paraplegia, Hereditary"	NEU
+Paraneoplastic Polyneuropathy	NEU
+POEMS Syndrome	NEU
+Polyradiculoneuropathy	NEU
+Cauda Equina Syndrome	NEU
+Guillain-Barre Syndrome	NEU
+Miller Fisher Syndrome	NEU
+"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating"	NEU
+Polyradiculopathy	NEU
+Tangier Disease	NEU
+Spinocerebellar Degenerations	NEU
+Friedreich Ataxia	NEU
+Myoclonic Cerebellar Dyssynergia	NEU
+Olivopontocerebellar Atrophies	NEU
+Spinocerebellar Ataxias	NEU
+Machado-Joseph Disease	NEU
+Tay-Sachs Disease	NEU
+Tyrosinemias	NEU
+Achalasia Addisonianism Alacrimia syndrome	NEU
+Harderoporphyria	NEU
+Pontocerebellar Hypoplasia	NEU
+"Schindler Disease, Type I"	NEU
+"Rickets, Hypophosphatemic"	RKT
+Familial Hypophosphatemic Rickets	RKT
+"Kidney Diseases, Cystic"	TKD
+Medullary Sponge Kidney	TKD
+Multicystic Dysplastic Kidney	TKD
+Polycystic Kidney Diseases	TKD
+"Polycystic Kidney, Autosomal Dominant"	TKD
+"Polycystic Kidney, Autosomal Recessive"	TKD
+"Nephritis, Interstitial"	TKD
+Balkan Nephropathy	TKD
+Pyelonephritis	TKD
+Emphysematous Pyelonephritis	TKD
+"Pyelonephritis, Xanthogranulomatous"	TKD
+Renal Insufficiency	TKD
+Acute Kidney Injury	TKD
+"Kidney Tubular Necrosis, Acute"	TKD
+Cardio-Renal Syndrome	TKD
+"Renal Insufficiency, Chronic"	TKD
+Chronic Kidney Diseases of Uncertain Etiology	TKD
+"Kidney Failure, Chronic"	TKD
+Frasier Syndrome	TKD

@@ -1,0 +1,396 @@
+publications2	entries	PMID
+"(Ohno 2011 Circ Arrhythm Electrophysiol 4,352"	26879	21493962
+"(Roessler 2008 Am J Hum Genet 83,18 18538293"	3674;22175	18538293
+"16465618,16274666, 24117009"	71063;97843	16465618;16274666;24117009
+20045868 (two variants identified in two families with Distal arthrogryposis type I)	1423	20045868
+"223,667,832,505,231,000,000,000"	71060;97835	None
+"23877401, 23359570"	71892;100986	23877401;23359570
+26846950	68879	26846950
+"3,202,138,030,372,560"	71079;97907	None
+"32250532, 32776697"	72678	32250532;32776697
+"3,458,748,934,489,850"	71883;100941	None
+:28485813	3128	28485813
+Abou Jamra et al. 2011	705;22034	21620353
+Abou Jamra et al. 2011 i	702;22031	21620353
+"Akizu, N., Cantagrel, V., Schroth, J., Cai, N., Vaux, K., McCloskey, D., Naviaux, R. K., Van Vleet, J., Fenstermaker, A. G., Silhavy, J. L., Scheliga, J. S., Toyama, K., and 16 others. AMPD2 regulates GTP synthesis and is mutated in a potentially treatable neurodegenerative brainstem disorder. Cell 154: 505-517, 2013. http://www.omim.org/clinicalSynopsis/615809"	3434	23911318
+Aldahmesh 2012 Genet Med 1412:955-962	2998	22935719
+"Aldahmesh 2012 Genet Med 1412:955-962, 22935719"	2958	22935719
+Aldahmesh et al 2012 Hum. Mutat. 33: 960-962	2826	22415731
+Alfadhli et al 2012 Mol. Vis. 18: 2931-2936	2969	23288985
+"Ali  M, Cox  TM 1995 and Cross, NCP  Cox  TM."	30482	7717389;2623136
+Alizadeh et al 2003 Invest Ophthalmol Vis Sci 43:3722-7	2833	14638724
+Aragon-Martin et al 2010 Hum Mutat 31:E1622-E1633	2956;2975	20564469
+Aridon et al 2006 Am J Hum Genet 79: 342-350	15224;36178;56071	16826524
+Atay et al 2013 Gene 515:197-9 23235116	3028	23235116
+BVVL	21506	None
+Barcia at al 2012 Nature Genet 4411: 1255-1261	15418;38003;56554	23086397
+Baroy et al 2015 Hum Mol Genet 2420:5845-5854	2915	26220973
+Baser et al 2011 Genet Med 136:576-581	2897	21451418
+"Bayat 2012,  22448145"	415	22448145
+Beetz et al. 2013	918	23479643
+Berg et al 1999 Am j Hum Genet 64:77-88	2889	9915946
+Berry et al 2004 J. Med. Genet. 41: e109	2919	15286169
+"Besse et al., 2015, Cell Metab., 213, 417-427 25738457"	4935;32213	25738457
+Bienvenu et al 2002 Hum Mol Genet 118: 981-991	15171;35603;55955	11971879
+Bongers et al 2005 Eur j Hum Genet 13:935-946	2992	15928687
+Boukhris et al. 2013	724;22038	23746551
+Boyadjiev et al 2006 Nature Genet. 38: 1192-1197	3017	16980979
+Boyadjiev et al 2011 Clin. Genet. 80: 169-176.	3017	21039434
+Brown-Vialetto-Van Laere syndrome 2	21506	None
+"Canavan disease, MIM# 271900"	538	None
+Cancer Gene Census	20208;20209;20211;20212;20224;20227;20228;20229;20230;20247;20251;20255;20280;20283;20290;20317;20318;20320;20321;20331;20334;20335;20336;20337;20352;20356;20360;20385;20388;20395	None
+Chassaing et al 2016 Genome Res. 26: 474-485	3013	26893459
+Chen et al 2011 Nature Genet 4312: 1252-1256	15561;39554;57013	22101681
+Chiara Manzini et al 2008 Hum Mutat 29:E231-E241	2976;3010;3011	18752264
+Choi et al. 2015 Europ. J. Hum. Genet. 23: 337-341	2922	24939590
+Cotarelo et al 2008 Clin Genet 73:139-145	2977	18177472
+Couvert et al 2001 Hum Mol Genet 109: 941-946	15447;38374;56637	11309367
+"DOI: 10.1016/j.ophtha.2019.12.024, 29556725"	19878	29556725
+DOI: 10.1038/ncomms14279	45748	28176794
+DOI: 10.1111/j.1399-0004.2011.01674.x	16853	21457232
+DOI: 10.1126/scitranslmed.aad9157	1251	28469040
+DOI: 10.1186/1471-2350-10-113	16847	19886994
+DOI: https://doi.org/10.1016/j.gimo.2024.101915	79746;89286	40129681
+DOI:10.1159/000501114	6276;23914;28242;38393	31602195
+DOI:10.3390/genes12111842	11186;11233;11281	34828448
+DOI:https://doi.org/10.1016/j.xhgg.2021.100034	88127	35047835
+Dagoneau et al 2004 Am J Hum Genet 75:801-806	2825	15368195
+"Daly SB, Urquhart JE, Hilton E, McKenzie EA, Kammerer RA, Lewis M, Kerr B, Stuart H, Donnai D, Long DA, Burgu B, Aydogdu O, Derbent M, Garcia-Minaur S, Reardon W, Gener B, Shalev S, Smith R, Woolf AS, Black GC, Newman WG. Mutations in HPSE2 cause urofacial syndrome. Am J Hum Genet 11:963-969, 2010."	3241;48096;48819	20560210
+Dastot-Le Moal et al 2007 Hum Mut 284: 313-321	15724;41251;57405	17203459
+"Daum RS, Scriver CR 1973 and Fukao T , Yamaguchi S, Kano 1990"	30479	 4690360;1978869
+Deml et al 2014 Clin Genet 86:475-481	2841	24628545
+"Demos et al 2014 Orphanet Journal of Rare Diseases 2014, 9:15"	15181;35667;55972	24468074
+Devi et al 2008 Mol Vis 14:1157-1170	2851	18587492
+"Diversity Selenium Functions in Health and Disease, Edited by Regina Brigelius-Flohe and Helmut Sies, Chapter 16. Mutations in SECISBP2. Erik Schoenmakers, Carla Moran, Nadia Schoenmakers and Krishna Chatterjee. CRC Press 2015. Pages 343 376. Print ISBN: 978-1-4822-5126-5. eBook ISBN: 978-1-4822-5127-2. DOI: 10.1201/b18810-23"	10342	None
+"Diversity Selenium Functions in Health and Disease, Edited by Regina Brigelius-Flohe and Helmut Sies, Chapter 16. Mutations in SECISBP2. Erik Schoenmakers, Carla Moran, Nadia Schoenmakers and Krishna Chatterjee. CRC Press 2015. Pages 343–376. Print ISBN: 978-1-4822-5126-5. eBook ISBN: 978-1-4822-5127-2. DOI: 10.1201/b18810-23"	22394	None
+Ebberink et al 2009 Hum Mutat 30:93-98	2915	18712838
+Ebberink et al 2012 J Med Genet 49:307-13	2906	22581968
+Edvardson et al. 2008	767;22051	19068277
+"Eisenberger et al 2013 Increasing the yield in targeted next-generation sequencing by implicating CNV analysis, non-coding exons and the overall variant load: the example of retinal dystrophies. PLoS One.  Nov 12"	52315	24265693
+Erlich et al. 2011	808	21487076
+Essawi et al A homozygous missense variant in NUDT6 is responsible for an autosomal recessive form of osteogenesis imperfecta.	34519	None
+Flanagan et al 2014 Cell Metab 19:146-154	14538	24411943
+Flanagan et al 2014 Nature Genetics (In press)	14553;32956	25038750
+Flatt et al 2011 11819:5267-77	2929	21791420
+Fleischman 2013 Blood 122:4837 http://www.bloodjournal.org/content/122/21/4837 (not in PubMed)	42971;53677	None
+Fleischman 2013 Blood 122:4837 https://protect-au.mimecast.com/s/EaaSC2xMxLhpLoOwh9oxHM?domain=bloodjournal.org (not in PubMed)	104805	None
+Friesema et al. 2003	887;22078	12871948
+"Funayama, M., Ohe, K., Amo, T., Furuya, N., Yamaguchi, J., Saiki, S., Li, Y., Ogaki, K., Ando, M., Yoshino, H., Tomiyama, H., Nishioka, K., and 12 others. CHCHD2 mutations in autosomal dominant late-onset Parkinson's disease: a genome-wide linkage and sequencing study. Lancet Neurol. 14: 274-282, 2015"	198;44874	25662902
+Gallus et al 2010 Eur J Neurol 17:1259-1262	2852	20402754
+Garuti et al 1997 J Lipid Res 38:2322-2334	2852	9392430
+Gene reviews: https://www.ncbi.nlm.nih.gov/books/NBK1449/	14587	20301622
+GeneReviews: Dystrophinopathies	14655;54468;56207	20301298
+Gestri et al 2009 Hum Genet 126:791-803. Milunsky et al. 2008 Am J Hum Genet. 2 825:1171_1177. Reiber et al 2010 Am J Med Genet 152A:994-999.	2934	19685247;18423521;20358615
+Gillespie et al 2014 Ophthalmology 12111:2124-37	2926	25148791
+Gillespie et al 2015 Invest. Ophthal. Vis. Sci. 56: 883-891	2877	25574057
+Gillespie et al 2016 Ophthalmol 123:217-220	2929	26233629
+Gillespie et al 2016 Ophthalmology 123:217-220	2906	26233629
+Godfrey et al 2007 Brain 130:2725-35	3011	17878207
+Goethem et al 2003 Eur J Hum Genet 11: 547-549	15550;39425;56980	12825077
+Goethen et al 2004 Neurology 63: 1251-1257	15550;39425;56980	15477547
+Gotoda et al 1998 Am J Hum Genet 63:1015-1024	2889	9758606
+Grau et al 2013 J Med Genet 50:848-858	2901	24136862
+Guo et al 2014 Clin Genet 86:575-579 24172257	2902	24172257
+Hamden et al 2009 N Engl J Med 360: 599-605	15657;40499;57239	19196676
+Handley et al 2013 Hum Mutat 34:686-96	2923;2924;2925	23420520
+Hanein et al. 2007	22129	17605047
+Hanein et al. 2008	954;22092	18394578
+Heinzen et al 2012 Nature Genet 449: 1030-1035	15181;35667;55972	22842232
+Heron et al 2012 Am J Hum Genet 90: 152_160	15561;39554;57013	22243967
+Heron et al 2012 Nature Genet 4411: 1188-1190	15418;38003;56554	23086396
+Hodgkinson et al. 2002	22136	12499481
+Hughes et al 2013 IOVS 54:5266	2892;10608	None
+Huppke et al 2012 Am. J. Hum. Genet. 90: 61-68	2930	22243965
+Hynes et al 2010 J Med Genet 47: 211-216	15512;39094;56877	19752159
+ISBN:9780199557509	1417	None
+Identified nonsense mutation Arg847Ter in RP patient	52315	22581970
+Intellectual developmental disorder with cardiac defects and dysmorphic facies	66630	None
+Itzkovitz et al 2011 Hum Mutat 33:189-197	2827	21990100
+J Clin Invest. 2015	48534;58284	25961457
+Jedele 2007 Seminars in Pediatric Neurology 143108-117	15447;15700;38374;41012;56637;57355	17980307
+"Journal Sleep Research 2012,  21(Suppl 1, P891"	30530;44952	None
+Kahrizi et al 2011 Europ. J. Hum. Genet. 19: 115-117	2931	20700148
+Kato et al 2004 Hum Mut 23: 147-159	15171;35603;55955	14722918
+Khan et al 2011 Invest. Ophthal. Vis. Sci. 52: 4294-4299	2922	21474777
+Khan et al 2015 Ophthalmic Genet. 36: 58-63 25469533	2902	25469533
+Kishino et al 1995 Nature Genet 15: 70-73	15216;36083;56061	8988171
+Kloss et al 2012 Mol Vis 18:1740-9	2980	22815627
+Kmoch et al 2000 Hum Mol Genet 910: 1501-1513	15137;35314;55870	10888601
+Kurian et al 2010 Brain 133: 2964_2970	15541;39354;56958	20833646
+LEBER OPTIC ATROPHY	6362;32338;55435	None
+Lachke et al 2011 Science 3316024:1571-1576	2933	21436445
+Lachke et al 2012 Hum Genet 131:235-250	3001	21769484
+Lalani 2014	15568;39621;57025	25439098
+"Lango Allen et al 2011 Nat Genet 44, 20-22 De Franco et al 2013 Diabetes 62, 993-997"	14523	 22158542;23223019
+Le Meur et al 2008 J Med Genet 47: 22-29	15451;38399;56642	19592390
+Lechner et al 2013 Invest Ophthalmol Vis Sci 54:5266-5372	2892;10608	23833072
+"Lemay 2015 J Med Genet 52,493"	16802	25805808
+Lesca et al 2013 Nature Genet 459 1061-1068	15364;37525;56430	23933820
+Li et al 2004 Mol Vis 20:1017	2825;2975	25053872
+Lin et al. 2008	440;893;4919;22102	19061983
+Lipid storage myopathy due to flavin adenine dinucleotide synthetase deficiency MIM#255100	70699	4179573;6788163;27259049;25058219
+MIM#272800	8629;27428;59278	None
+MIM#601675	27426	None
+MIM#607595	5413;27422;59090	None
+MIM#612319	27427	None
+MITOCHONDRIAL COMPLEX IV DEFICIENCY	6362;32338;55435	None
+Macedo-Souza LI 2008	22134	18463901
+Mannan AU 2006	443;955;4923;22123	16826525
+"Many for Axenfield-Rieger syndrome, Peters anomaly"	2979	None
+Many on HGMD	2965	None
+Mayr et al 2012 Am. J. Hum. Genet. 90: 314-320	2826	22284826
+McAlinden et al 2008 Hum Mutat 29:83-90	2840	17721977
+Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2	106107;106137	None
+Meijer IA et al. 2004	22131	15455396
+Meilleur et al 2014 J Neuropathol Exp Neurol 73:425-441	2990	24709677
+"Middleton B , Day R 1987 and Kassovska-Bratinova  S, Fukao, T 1996"	30493	8751852
+Molinari et al 2005 Am J Hum Genet 76: 334_339	15625;40133;57155	15592994
+Montenegro et al. 2012	872	22232211
+Mordechai et al 2011 Hum. Genet. 89: 438-445 21885030	2902	21885030
+Moreno-De-Luca et al. 2011	703;22032	20972249
+Mosaic case series shortly to be published by Kinsler group	33600;91828;106305	36566878
+Mouse mutation: Li et al 2008 Invest. Ophthal. Vis. Sci. 49: 304-309	2969	18172107
+"NPHP3 mutations have been linked to Senior-Loken syndrome, which involves cystic kidney disease (nephronophthisis) and retinitis pigmentosa or Leber congenital amaurosis."	52223	11752023
+Najmabadi et al 2011 Nature 478:57	2931	21937992
+Nakamura 2013	15352;37436;56407	23993195
+Nascimento et al 2006 Am J Hum Genet 79: 549-555	15699;41007;57354	16909393
+Nat Genet. 2012 May 6	19868	22561515
+Nat Genet. 2016 Dec	16224	27798626
+"Nat Genet. 42: 27-29, 2010"	30410	19966803
+"National Metabolic Biochemistry Network Best Practice Guidelines Investigation of An Inherited Metabolic Cause of Cardiomyopathy, Authors: Ann Bowron, Simon Olpin 13 Jul 2012 http://www.metbio.net/metbioGuidelines.asp"	44381;44501;55848;57414;63999;64004	None
+Nava et al 2014 Nature Genet 466. 640-648	15375;37603;56460	24747641
+Naviaux & Nguyen 2004 Ann Neurol 55: 706-712	15550;39425;56980	15122711
+Neuhann 2015 Am J Hum genet 167A:2376-2381	2956	25975359
+Non published	16720	None
+None	9389;26797;30248;44263	None
+Novarino et al. 2014	392;430;431;436;438;441;698;709;710;815;846;936;946;4885;4908;4909;4915;4917;4920;22103;22105;22106;22112;22114;22118;22121	24482476
+O'Sullivan et al 2012 A paradigm shift in the delivery of services for diagnosis of inherited retinal disease. J Med Genet.  May	52315	22581970
+"Orho, M., Bosshard 1998"	30487	9691087
+Orlacchio A	22132	16130112
+Orlacchio et al. 2008	22137	18401025
+Orthmann-Murphy et al. 2009	407;781;4893;22110	19056803
+"Ostergaard et al., 2015, J. Med. Genet., 52, 203-207."	8341;32582	25604084
+PMC1378014	732;1913;20571;21033;21295	10762541
+PMC3773904	22330	20037589
+PMC3912419	30369;30454;33499	24389050
+PMC4207928	10175	24601690
+Parikh et al. Molecular Genetics and Metabolism 114 2015 501_524	7124;27392;59220	25655951
+Parikh et al. Molecular Genetics and Metabolism 114 2015 501_560	7319;27402;59232	25655951
+Parikh et al. Molecular Genetics and Metabolism 114 2015 501_575	7306;27400;59230	25655951
+Parikh et al. Molecular Genetics and Metabolism 114 2015 501_578	7168;59224	25655951
+Parikh et al. Molecular Genetics and Metabolism 114 2015 501_584	4989;27285;59068	25655951
+Parikh et al. Molecular Genetics and Metabolism 114 2015 501_585	27380	25655951
+Parikh et al. Molecular Genetics and Metabolism 114 2015 501_586	27381	25655951
+Parikh et al. Molecular Genetics and Metabolism 114 2015 501_628	7313;27401;59231	25655951
+Parikh et al. Molecular Genetics and Metabolism 114 2015 501_634	7128;27393;59221	25655951
+"Parkinson disease 6, early onset"	15049	None
+Partington et al 1998 Am J Med Genet 30: 251-262	15171;35603;55955	3177452
+Patel et al. 2002	905	12134148
+Paznekas et al 2009 Hum Mutat30:724-733	2982	19338053
+Peippo et al 2005 Clin Dysmorphol 15: 47_54	15240;36288;56101	16531728
+Percin et al 2000 Nature Genet. 25: 397-401	2937	10932181
+Perrault et al 2014 AJHG 946. 891-897	15279;36725;56219	24814191
+"Porath B, Gainullin VG, Cornec-Le Gall E, Dillinger EK, Heyer CM, Hopp K, Edwards ME, Madsen CD, Mauritz SR, Banks CJ, Baheti S, Reddy B, Herrero JI, Bañales JM, Hogan MC, Tasic V, Watnick TJ, Chapman AB, Vigneau C, Lavainne F, Audrézet MP, Ferec C, Le Meur Y, Torres VE, Genkyst Study Group, HALT Progression of Polycystic Kidney Disease Group, Consortium for Radiologic Imaging Studies of Polycystic Kidney Disease, Harris PC. Mutations in GANAB, Encoding the Glucosidase IIα Subunit, Cause Autosomal-Dominant Polycystic Kidney and Liver Disease. Am J Hum Genet. 2016 Jun 2"	11392;11497;48065;48794;58459	27259053
+Pras et al 2004 Invest Ophthalmol 45:1940-5	2870	15161861
+Publications in OMIM	52223	18371931;20007846;14502283;23793029;12514735;8874114;12872122;10631142;11134256;11752023;19303681;19177160;9329956
+Rainier et al. 2003	832;22064	14508710
+Rainier et al. 2008	22070	18313024
+Ramachandran et al 2007 Hum Genet 1213-4:475-82	2833	17225135
+Ramocki et al 2009 Am J Med Genet Part A 152A: 1079_1088	15447;38374;56637	20425814
+Reid et al. 2002	22061	12355402
+"Review of the literature from Stephanie Barton (Manchester) - Bowne et al 2008 Two different TOPORS mutations, p.Glu808X and p.Arg857GlyfsX9, were each identified in one proband. Patients with these mutations exhibited clinical signs typical of advanced adRP. Mol Vis May 19"	52315	18509552
+"Review of the literature from Stephanie Barton (Manchester) - L Bielas et al 2009 Mutations in INPP5E, encoding inositol polyphosphate-5-phosphatase E, link phosphatidyl inositol signaling to the ciliopathies. Nat. Genet. 41:1032-1036"	52183	19668216
+"Reyes et al., 2005, Am. J. Hum. Genet., 97,  186-193."	6990;6991;24525;31241;32442;39768;55602;57055	26094573
+Reynier et al 2004 J Med genet 41:e110	2901	15342707
+Richards et al 2006 Hm Mutat 27:694-704	2840	16752401
+Riise Steinland et al 2011 Hum Mutat 33:511-520	2889	22161967
+Rossi et al 2007 Am J Med Genet A 143A:2371-2381	2926	17853487
+Rubio-Cabezas et al 2011 Diabetes 60:1349-1353	14541;32942	21378176
+SEIZURES AND LACTIC ACIDOSIS	6362;32338;55435	None
+Saito et al 2010 Am J Med Genet 92:184-190	2977	10817652
+Saitsu 2015	15352;37436;56407	25966631
+Saitsu et al 2013 Nat Genet. 454:445-9	15714;41154;57389	23435086
+Saugier-Veber et al 1994	848;22069	8012387
+Scholl et al 2009	15411;37968;56543	19289823
+Schorderet et al 2008 Am. J. Hum. Genet. 82: 1178-1184	2877	18423520
+Schule et al. 2009	22135	19357379
+Schuurs-Hoeijmakers et al. 2012	752;22047	23176823
+See OMIM https://www.omim.org/entry/603896	22124	15136673;8309512;11704758;18263758;15776425;10334484;8122885;9153528;25843247;7644053;9109866;9710032;11835386;12453083;25761052
+Serajee et al. (ASHG conference 2015 - abstract Nr. 2299T)	7390;15671;24894;28788;40690;40691;57271	None
+Several mutations reported on HGMD in patients with Usher syndrome Type 1 and also non-syndromic deafness.	52236	None
+Several publications on HGMD in patients with Spondylometaphyseal dysplasia with cone-rod dystrophy	52237	None
+Shah et al 2012 Dev Med Child Neurol 54:569-574	2841	22574627
+Shaw-Smith et al 2012 Pediatr Diabetes 13:314-321	14549	22369132
+Shen et al 2010 Nature Genet 423: 245-251	15547;39396;56971	20118933
+Shimazaki et al. 2012	728;22040	23188110
+Simpson et al. 2003	22085	14564668
+Slabicki et al. 2010 i	659;22104	20613862
+Smith et al 2010 Nature 463:775-780	14548	20148032
+Spiegal et al 2011 AM J Med Genet 155:2821-2825	14548	21965172
+Spiegel et al2011 J. Med. Genet. 48: 177-182 21147908	3028	21147908
+Steiner et al 2000 Am J Med Genet 91:131-134	2978	10748412
+Steinkeller et al 2015 Eur J Hum Genet 23:1186-1191	2825	25469541
+Stevanin G	22133	17322883
+Stevanin et al. 2007	22084	17322883
+"Stuart HM, Roberts NA, Bergu B, Daly SB, Urquhart JE, Bhaskar S, Dickerson J, Mermerkaya M, Silay MS, Lewis MA, Olondriz BO, Gener B, Beetz C, Varga RE, G lp nar O, S er E, Yal nkaya F, G c k A, Yue WW, Erdogan F, Berry A, Hanley NA, McKenzie EA, Hilton EN, Woolf AS, Newman WG. LRIG2 mutations cause urofacial syndrome. Am J Hum Genet 92:259-264, 2013."	48141;58200	23313374
+Sun et al 2005 J Med Genet 42:706-710	2851	16141006
+"Takagi, M. ESPE Abstracts 2015 84 P-1-120, Hormone Research in Paediatrics Volume 82 Supplement 1"	22499	None
+Tamagaki et al. 2000	22126	10982474
+Tanaka et al 2008 Am J Hum Genet 82: 1249_1261	15336;37261;56352	18514161
+Tao et al 2004 Am J Hum Genet 75: 1149-1154	15216;36083;56061	15499549
+Tesson et al. 2012	745;751;22044;22046	23176821
+"The Metabolic and Molecular Bases of Inherited Disease. Vol. IV. 8th ed.Benson, M. D. Amyloidosis. In: Scriver, C. R et al.: New York: McGraw-Hill . 2001"	44682;94813;100738	None
+"The Metabolic and Molecular Bases of Inherited Disease. Vol. IV. 8th ed.Benson, M. D. Amyloidosis. In: Scriver, C. R et al.: New York: McGraw-Hill . 2001."	44992	None
+"Thevenon et al 2014 AJHG 95, 113 120"	15619;40088;57134	24995870
+"Torkamani et al 2014 Ann. Neurol. 76: 529-540, 2014"	15405;37947;56534	25164438
+Travaglini et al 2013 Phenotypic spectrum and prevalence of INPP5E mutations in Joubert syndrome and related disorders. Eur J Hum Genet.  Oct	52183	23386033
+Tsaousidou et al. 2008 i	569	18252231
+Tsurusaki et al 2002 Nature 30: 441-445	15171;35603;55955	None
+UKGTN	27176	None
+Valdmanis et al. 2007	944	17160902
+"Valente, E. 2002"	22127	12112072
+Vanita et al 2009 Mol Vis 15:476-481	2851	19262743
+Vazza G 2000	22125	10877981
+Vega et al 2010 J. Med. Genet. 47: 30-37.	2973	19574259
+Verkerk et al. 2009	704;22033	19559397
+Version 12 ukgtn.nhs.uk	9139;26556;30058;43755	None
+Wagenstaller et al 2007 Am J Hum Genet 81: 768-779	15444;38344;56629	17847001
+Wan et al 1999 Am J Hum Genet 5: 1520_1529	15447;38374;56637	10577905
+Wan et al 2011 Brain 134: 3493_3501	15561;39554;57013	22120146
+Wang 2015 Birth Defects Res A Clin Mol Teratol epub	16800	26368655
+Wang et al 2001 Am J Med Genet 102:11-17	3014	11471165
+Wang et al 2003 J. Nat. Cancer Inst. 95: 669-674	3014	12734318
+Wang et al 2013 Mol Vis 19:2590-2595	2833	24379646
+Wang et al 2015 Comprehensive Molecular Diagnosis of a Large Chinese Leber Congenital Amaurosis Cohort.Invest Ophthalmol Vis Sci.  Jun	52183	26047050
+Willemsen  et al 2013 J Med Genet 50:507 514	15943;42860;57922	23644463
+Wimplinger et al 2006 Am J Hum Genet 79:878.	2986	17033964
+Windpassinger et al. 2004	727;22039	14981520
+Yu et al 2001 Blood 98:3840-3845	2870	11739194
+"Zang et al 2014 AJHG 94, 547 558"	15569;39642;57030	24656866
+Zhao et al. 2008	22138	18364116
+Zivony-Elboum et al. 2012	428;942;4907;22120	22717650
+Zuchner et al. 2006	865;22072	16826527
+Zweier et al 2009 Am J Hum Genet 85: 655_666	15240;36288;56101	19896112
+and many others	2889	None
+and online publication GiM Open Feb 2024	86590;103463;103801;103929	None
+de Carvalho Aguiar et al 2004 Neuron 43: 169-175	15181;35667;55972	15260953
+de Vet et al 1998 J. Biol. Chem. 273: 10296-10301	2827	9553082
+doi.org/10.1093/brain/awz264	15507;39046;56864	31504246
+doi.org/10.1101/2020.05.01.073387	11312;59057	33396594
+doi.org/10.1101/678219	5798;15332;23449;27968;37251;37252;56348	32347641
+doi: 10.1038/ng.507	22330	20037589
+doi: 10.1093/hmg/ddu021.	16858	24459294
+doi: 10.1101/2024.06.19.24308302	63522	39148840
+doi: 10.3389/fimmu.2024.1438383	76682;104171	39364398
+doi: https://doi.org/10.1016/j.gimo.2024.101958	104744	39925707
+doi: https://doi.org/10.1101/2020.04.01.20047381	46361	32425269
+doi: https://doi.org/10.1101/2020.04.01.839274	64479	32504085
+doi:10. 1007/ s12265-016-9673-5	64000;64124	26888179
+doi:10.1001/archneurol.2011.250	1254	22084127
+doi:10.7150/ijms.5270	16843	23289003
+doi:10.​1007/​s12265-016-9673-5	1337;3378;3380;3398;3430;14761;14763;14783;14791;16603;22404;22435;32004;32007;54453;54600;54653;54655;54696;54707;54761;54796;56027;57786;57947;57952;58066;58081	26888179
+evidence for a role in autoimmune disease if ZAP70 is disregulated 27571017 and 26903241	26943	27571017;26903241
+"homozygous and compound heterozygous mutations in patients with Meckel syndrome. Multiple publications on HGMD of both missense and loss of function mutations in patients with nephronophthisis. Paper by Olbrich et al 2003 Mutations in a novel gene, NPHP3, cause adolescent nephronophthisis, tapeto-retinal degeneration and hepatic fibrosis.Nat Genet. 2003 Aug"	52223	12872122
+http://dx.doi.org/10.1016/j.nmd.2015.06.091	10441;24578;34937	None
+http://dx.doi.org/10.1371/journal.pgen.1002843	16859;16863	22912587
+http://dx.doi.org/10.1371/journal.pone.0095453	16855	25093829
+http://iembase.com/disorder/47	79179;85129;89675;91185;98780	None
+http://igc.otago.ac.nz/home.html	19614;19615;19616;19618;19619;19620;19621;19623;19624;19625;19626;19627;19632;19633;19634;19635;19637;19645;19649;19650;19656;19661;19663;19664;19669;19671;19672;19675;19681;19687;19688;19690;19691;19694;19697;19699;19700;19701;19705;19706;19707;19710;19713;19715;19718;19720;19722;19723;19724;19725;19726;19727;19728;19729;19731;19735;19736;19739;19741;19743;19757;19760;19761;19772;19777;19778;19781;19782;19789;19793;19794;19795;19798;19799;19800;19801;19802;19803;19804;19805;19807;19812;19819;19826;19827;19828;19830;19832;19835;19836;19837;19841;33654;33655;76978	None
+http://www.arvo.org/webs/am2015/abstract/304.pdf	10631	None
+http://www.bloodjournal.org/content/130/Suppl_1/874	11778	None
+http://www.cambridgestroke.com/genetictesting.php	16361	None
+http://www.geneimprint.com/site/genes-by-species.Homo+sapiens	19686;19744;19758;19824;19829	None
+http://www.ncbi.nlm.nih.gov/books/NBK1131/	1336;44474;54695;57077;58067;64123	20301310
+http://www.ncbi.nlm.nih.gov/books/NBK1155/	137;151;153;169;174;177;180;184;187;189;208;328;550;678;684;784;850;858;884;906;920;921;924;15024;15039;15051;15053;15054;15056;15057;15061;15063;15064;15065;15073;15074;44866;44868;44884;44890;44894;44895	20301334
+http://www.ncbi.nlm.nih.gov/books/NBK1408/	22952;23290;23402;23408;24056;24352;24613;24614;24615;24616;24867;24955;31858;31869;31872;31873;31887;31891;31902;31903;31904;31905;31910;31914;34730;34787;34803;34807;34889;34908;34944;34945;34946;34947;34974;34990	20301582
+http://www.ncbi.nlm.nih.gov/books/NBK1414/	756;15083	20301587
+http://www.ncbi.nlm.nih.gov/pubmed/22335739	22479;44498;54725;57334;58141;64153	22335739
+http://www.ncbi.nlm.nih.gov/pubmed/22523091	44410;56310;64037	22523091
+http://www.ncbi.nlm.nih.gov/pubmed/24209436	44844	24209436
+http://www.ncbi.nlm.nih.gov/pubmed/25326098	44881	25326098
+https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcad222/7243438?login=true	63440	37794925
+https://dmdd.org.uk/mutants/Ehbp1l1	5647;17431;19406;23304;30841;36843;56255;69235	None
+https://doi-org.ezproxy.library.qmul.ac.uk/10.1093/brain/awaa085	5805;23456;27974;37269	None
+https://doi.org/10.1007/978-3-642-40337-8_10	6372;15463;23993;28278;38560;38561;56692	None
+https://doi.org/10.1016/S2096-69112100044-3	91826;106286	None
+https://doi.org/10.1016/j.ajhg.2022.01.020	87397	35240055
+https://doi.org/10.1016/j.ejcped.2023.100023	9393	None
+https://doi.org/10.1016/j.ejpn.2017.04.926	1742;20778	None
+https://doi.org/10.1016/j.mgene.2017.07.006	65010;69886;81873;106228	None
+https://doi.org/10.1016/j.mpdhp.2016.02.005	27102;27105	None
+https://doi.org/10.1016/j.nmd.2012.06.124	5601;32268;45398	None
+https://doi.org/10.1016/j.xhgg.2021.100028	106110;106169	33912852
+https://doi.org/10.1016/j.xhgg.2021.100033	6922;24458;28515;39607	34527963
+https://doi.org/10.1016/j.xhgg.2021.100034	80755;81048;101153	35047835
+https://doi.org/10.1016/j.xhgg.2023.100198	70366;77960	37181331
+https://doi.org/10.1038/nn.3688  https://doi.org/10.1002/ana.24255	1252	 24686783;25154462
+https://doi.org/10.1053/j.gastro.2017.11.120	33157;41994;46189	None
+https://doi.org/10.1093/brain/awp325	1253	20110243
+https://doi.org/10.1093/brain/awt361	21669	24480483
+https://doi.org/10.1093/qjmed/89.5.355	68392;92537;98370	None
+https://doi.org/10.1101/2020.04.30.071274	11136	33324374
+https://doi.org/10.1101/2020.05.02.20084673	10876	32511656
+https://doi.org/10.1101/2020.05.04.07591	59043	None
+https://doi.org/10.1101/2020.05.04.075911	11283	None
+https://doi.org/10.1101/2020.05.12.091314	11337	33293627
+https://doi.org/10.1101/2020.05.13.093690	11297;11300;11336	32771700
+https://doi.org/10.1101/2020.09.10.20190314	86607	33833410
+https://doi.org/10.1101/2020.10.12.20211474	14698;44457;54575;56828;57619	35288587
+https://doi.org/10.1101/2021.12.03.21267240	10310	36333503
+https://doi.org/10.1101/499988	11162;11301	32499645
+https://doi.org/10.1101/797787	6197;15435;23836;28193;38206;38207;56597;71474;78213;85818;99313	33057194
+https://doi.org/10.1126/scisignal.aax0926	15669;40657;57266	None
+https://doi.org/10.1155/2024/8807171	78531;80701;80966;86548;99948;102497	None
+https://doi.org/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A6356	21363;74318;106069;106166	None
+https://doi.org/10.14785/lpsn-2014-0012	10726;45918	None
+https://doi.org/10.3390/genes12121918	3025	34946867
+https://doi.org/10.4137/jge.s12583	6390;24005;28280;38575	None
+https://imgc2019.sciencesconf.org/data/abstract_book_complete.pdf	6282;23920;28247;38416;52831	None
+https://n.neurology.org/content/86/16_Supplement/P5.391	44929	None
+https://n.neurology.org/content/92/15_Supplement/P3.4-037	21612	None
+https://search.clinicalgenome.org/CCID:004057	83845	23818446;24874986;23356391
+https://search.clinicalgenome.org/CCID:004084	103197;103744;103861	10615133;25596619;15347646;26650897;15582159
+https://search.clinicalgenome.org/CCID:004643	77780	29433144;32055014;27401223;28805615
+https://search.clinicalgenome.org/CCID:004651	77792	10583221;18195234;12400016;18626023
+https://search.clinicalgenome.org/CCID:004669	65206;84768	31178125;25613900;33423959;35932098
+https://search.clinicalgenome.org/CCID:004751	77853	19353645;27648933;15706485;9590171;19822209
+https://search.clinicalgenome.org/CCID:004863	77917	9883725;23032111;16684786;18427995;16825286
+https://search.clinicalgenome.org/CCID:004870	77921	1675488;8490650;8069307;7670500;21267007;24448548;25693964;28176767
+https://search.clinicalgenome.org/CCID:004892	77937	15162322;15342698;18081026;25644381;26310293;28330790;30415557;30557699;31170314;31981491;33771871;36720500
+https://search.clinicalgenome.org/CCID:004990	78003	8589713;23606591;29637653
+https://search.clinicalgenome.org/CCID:005073	78067	26173930;26638989;26954065;28374925;28771707;29904177
+https://search.clinicalgenome.org/CCID:005077	78070	12833395;12833395;16155570;18412118
+https://search.clinicalgenome.org/CCID:005082	78073	2928313;8664901;2323782;10767182;23975452;28495876;24206569;3029599
+https://search.clinicalgenome.org/CCID:005112	78085	1639384;8940265;9501270;9950361;12794697;16505002;27246110;28207863
+https://search.clinicalgenome.org/CCID:005121	76767;88070;95553	815819;4117311;4132042;26853951;32278584
+https://search.clinicalgenome.org/CCID:005173	78123	19922872;22921202;25728775;27133397;29899504;32041641
+https://search.clinicalgenome.org/CCID:005174	78124	10821753;17079664;18794358;22077973;22265014;22265017;25424711;30790630;32424177;34519438
+https://search.clinicalgenome.org/CCID:006342	67396	8894686;20003452;20106873;22317976;25790162;29230583;30390570;31307516
+https://search.clinicalgenome.org/CCID:006588	89310	16385466;19344873;20691945;22126752;23871722;26544196;28263302
+https://search.clinicalgenome.org/CCID:008794	90685;91784	23473037
+https://search.clinicalgenome.org/kb/gene-validity/10165	3191;3335;54524;57097	12051963;9521325;10727653;10590249;20129283;14961552;27810048;10690282
+https://www.biorxiv.org/content/10.1101/2020.04.07.030767v1	11342	33532126
+https://www.medrxiv.org/content/10.1101/2022.04.26.22274147v1	85632	36307226
+https://www.medrxiv.org/content/10.1101/2024.05.10.24306768v1	21663	None
+https://www.medrxiv.org/content/10.1101/2024.06.19.24308302v1	61629;68527;69879;78572;86650;92685;93778;100028;102503;105835	39148840
+https://www.medrxiv.org/content/10.1101/2024.10.04.24314692v1.full.pdf	78651;86816	40442284
+https://www.medrxiv.org/content/10.1101/2024.10.07.24314689v1	78651;86816	40379786
+https://www.medrxiv.org/search/DDX17	77768;84702	None
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3870197/	14464	24123981
+https://www.neurology.org/doi/full/10.1212/NXG.0000000000200088	79689;89197;92093;92454;94448;104857	38235364
+https://www.neurology.org/doi/full/10.1212/NXG.0000000000200101 (No )	61978;62296;71714;80721;80996;87019;93880;100285;100286;100287	38235040
+https://www.nmd-journal.com/article/S0960-89662030203-0/fulltext	10482;23642;34833	None
+iliff et al 2012 IOVS 53:348-353	2892	22131394
+medRxiv 2020.04.01.20047381	46361	32425269
+"model of function postulated by Honsho et al. (J. Biol. Chem. 285: 8537-8542, 2010 for the protein"	45050	20071337
+mother and sibling's samples not available for testing. Three functional assays confirm that this mutation has a major biological effect underlying the phenotype observed in the patient. 1908107 - publication describing function of the protein.	52398	24026985;1908107
+none	6363;11226;23987;31048;38551;46327;56687	None
+none submitted	3135;3138;3139	None
+p.H89fsX20 was reported in a proband with  early childhood-onset leg dystonia (though testing in the parents was not mentioned).	44858	18420150
+van Rahden et al 2014 Orphanet J Rare Dis 9:53	2986	24735900
+van Reeuwijk et al 2007 Hum Genet 121:685-690	2990	17436019
+van Reeuwijk et al 2010 Clin genet 78:275-281	2976	20236121
+​14559215	67087;67260;84718	14559215
+​17568404	67273;84973	17568404
+​25719458	67137;67346;86308	25719458
+﻿﻿12161522	33807	12161522
