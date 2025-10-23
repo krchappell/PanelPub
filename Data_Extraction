@@ -1,3 +1,6 @@
+Start by downloading PanelApp data
+
+```
 # DATA EXTRACTION ####
 source(PUBPANEL_FUNCTIONS.R)
 ## PanelApp England & Australia ####
@@ -46,6 +49,7 @@ dim(panel_app_all)
 
 fwrite(panel_app_all, sep = "\t",
        file = "path/to/PanelAppENG-AUS_panels_DATE.txt")
+```
 
 # Clean data
 panel_app_clean <- panel_app_all %>%
