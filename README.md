@@ -6,6 +6,24 @@ Leveraging PubTator 3.0 (https://www.ncbi.nlm.nih.gov/research/pubtator3/) and L
 </p>
 
 ## Data sources
+### PMIDs
+1. Make sure eutils is downloade
+
+```bash
+sudo apt install ncbi-entrez-direct
+```
+
+2. On the command line, run the following, where "query" is your PubMed query 
+
+```bash
+esearch -db pubmed -query "query" | efetch -format uilist > file.txt
+```
+
+<b>Example</b>
+```
+esearch -db pubmed -query "Hypogonadism/genetics[mesh] OR 'hypogonad* hypogonad*'[tiab]" | efetch -format uilist > CHH.txt
+```
+
 ### Gene synonyms
 1. Download gene synonyms from https://ftp.ncbi.nih.gov/gene/DATA/gene_info.gz
 2. On the command line and in the directory where the gene_info.gz file is located, run the following to retrieve human genes; gene synonyms will be '|'-separated in the column 'Synonyms'
