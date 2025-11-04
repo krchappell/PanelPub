@@ -8,13 +8,12 @@ Leveraging PubTator 3.0 (https://www.ncbi.nlm.nih.gov/research/pubtator3/) and L
 ## Data sources
 ### Gene synonyms
 1. Download gene synonyms from https://ftp.ncbi.nih.gov/gene/DATA/gene_info.gz
-2. On the command line, run the following to retrieve human genes; gene synonyms will be '|'-separated in the column 'Synonyms'
+2. On the command line and in the directory where the gene_info.gz file is located, run the following to retrieve human genes; gene synonyms will be '|'-separated in the column 'Synonyms'
 
 ```bash
-zcat gene_info.gz | grep -e "^#tax_id" -e "^9606" > gene_info_hsapiens.txt
+zcat gene_info.gz | grep -e "^#tax_id" -e "^9606" | awk '{print $2, $3, $5}' > gene_synonyms_hsapiens.txt
 ```
-
-Alternatively, download on the PanelPub Main page: gene_info_hsapiens.txt
+3. Alternatively, download on the main page: gene_synonyms_hsapiens.txt
 
 ### Non-human orthologs
 1. Download ortholog data from https://ftp.ncbi.nih.gov/gene/DATA/gene_orthologs.gz
