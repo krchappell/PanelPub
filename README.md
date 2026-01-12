@@ -77,9 +77,9 @@ fwrite(ortho, "path/to/gene_orthologs_MOD.txt", sep = "\t")
 
 ### Gene synonyms
 1. Download gene synonyms from https://ftp.ncbi.nih.gov/gene/DATA/gene_info.gz
-2. In the directory where gene_info.gz is located, run the following on the command line to retrieve human genes; gene synonyms will be '|'-separated in the column 'Synonyms'
+2. In the directory where gene_info.gz is located, run the following python script in the command line to retrieve human genes; gene synonyms will be '|'-separated in the column 'Synonyms'
 
 ```bash
-zcat gene_info.gz | grep -e "^#tax_id" -e "^9606" | awk '{print $2, $3, $5}' > gene_synonyms_hsapiens.txt
+python3 filter_human_gene.py -g gene_info.gz
 ```
-Alternatively, download on the main page: <b>gene_synonyms_hsapiens.txt</b>
+Alternatively, download on the main page: <b>gene_info_human.txt</b>
