@@ -2,10 +2,42 @@
 Leveraging PubTator 3.0 (https://www.ncbi.nlm.nih.gov/research/pubtator3/) and LitVar 2.0 (https://www.ncbi.nlm.nih.gov/research/litvar2/) to retrieve genetic annotations from PubMed articles and compare them to virtual gene panels of PanelApp (https://panelapp-aus.org/ and https://panelapp.genomicsengland.co.uk/).
 
 <p align="center">
-  <img width="750" height="563" alt="gene-panel-PubTator_v2" src="https://github.com/user-attachments/assets/1b841249-67e9-454f-ab96-40c3ed798432" />
+  <img width="750" height="563" alt="gene-panel-PubTator_v2" src="https://github.com/user-attachments/assets/84ad1544-1415-4c88-86a0-76c98aff4558" />
 </p>
 
 ## Data sources
+
+### PubTator 3.0
+Download PT3 genes, variants, and relations from:
+
+<b>https://ftp.ncbi.nlm.nih.gov/pub/lu/PubTator3/gene2pubtator3.gz</b>
+
+<b>https://ftp.ncbi.nlm.nih.gov/pub/lu/PubTator3/mutation2pubtator3.gz</b>
+
+<b>https://ftp.ncbi.nlm.nih.gov/pub/lu/PubTator3/relation2pubtator3.gz</b>
+
+### LitVar 2.0
+Download LitVar 2.0 data from: 
+
+<b>https://ftp.ncbi.nlm.nih.gov/pub/lu/LitVar/litvar2_variants.json.gz</b>
+
+### GO-BP gene sets
+Download Gene Ontology - Biological Process data from: 
+
+<b>https://www.gsea-msigdb.org/gsea/msigdb/download_file.jsp?filePath=/msigdb/release/2025.1.Hs/c5.go.bp.v2025.1.Hs.entrez.gmt</b>
+
+### HGNC-approved symbols
+Download HUGO Gene Nomenclature Committee (HGNC) Approved Symbols from: 
+
+<b>https://www.genenames.org https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/hgnc_complete_set.txt</b>
+
+### MeSH data
+Download MeSH descriptors and Supplementary Concepts from: 
+
+<b>https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/xmlmesh/desc2025.gz</b>
+
+<b>https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/xmlmesh/supp2025.gz</b>
+
 ### PMIDs
 1. Make sure eutils is downloade
 
@@ -23,15 +55,6 @@ esearch -db pubmed -query "query" | efetch -format uilist > file.txt
 ```
 esearch -db pubmed -query "Hypogonadism/genetics[mesh] OR 'hypogonad* hypogonad*'[tiab]" | efetch -format uilist > CHH.txt
 ```
-
-### Gene synonyms
-1. Download gene synonyms from https://ftp.ncbi.nih.gov/gene/DATA/gene_info.gz
-2. On the command line and in the directory where the gene_info.gz file is located, run the following to retrieve human genes; gene synonyms will be '|'-separated in the column 'Synonyms'
-
-```bash
-zcat gene_info.gz | grep -e "^#tax_id" -e "^9606" | awk '{print $2, $3, $5}' > gene_synonyms_hsapiens.txt
-```
-3. Alternatively, download on the main page: gene_synonyms_hsapiens.txt
 
 ### Non-human orthologs
 1. Download ortholog data from https://ftp.ncbi.nih.gov/gene/DATA/gene_orthologs.gz
@@ -52,5 +75,11 @@ ortho <- ortholog_df %>%
 fwrite(ortho, "path/to/gene_orthologs_MOD.txt", sep = "\t")
 ```
 
-### GO-BP gene sets
-Download Gene Ontology - Biological Process data from https://www.gsea-msigdb.org/gsea/msigdb/download_file.jsp?filePath=/msigdb/release/2025.1.Hs/c5.all.v2025.1.Hs.symbols.gmt
+### Gene synonyms
+1. Download gene synonyms from https://ftp.ncbi.nih.gov/gene/DATA/gene_info.gz
+2. In the directory where gene_info.gz is located, run the following on the command line to retrieve human genes; gene synonyms will be '|'-separated in the column 'Synonyms'
+
+```bash
+zcat gene_info.gz | grep -e "^#tax_id" -e "^9606" | awk '{print $2, $3, $5}' > gene_synonyms_hsapiens.txt
+```
+Alternatively, download on the main page: <b>gene_synonyms_hsapiens.txt</b>
