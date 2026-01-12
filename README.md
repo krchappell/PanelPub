@@ -14,12 +14,33 @@ Download PT3 genes, variants, and relations from:
 
 <b>https://ftp.ncbi.nlm.nih.gov/pub/lu/PubTator3/mutation2pubtator3.gz</b>
 
+Then filter according to your PMID list using python and the command line
+
+Example:
+```bash
+python3 filter_pubtator.py -f gene2pubtator3.gz -p All_1_PMIDs.txt
+```
+
 <b>https://ftp.ncbi.nlm.nih.gov/pub/lu/PubTator3/relation2pubtator3.gz</b>
+
+Then filter according to your MeSH list using python and the command line
+
+Example:
+```bash
+python3 filter_relations.py -m mesh_terms.txt
+```
 
 ### LitVar 2.0
 Download LitVar 2.0 data from: 
 
 <b>https://ftp.ncbi.nlm.nih.gov/pub/lu/LitVar/litvar2_variants.json.gz</b>
+
+Then filter according to your MeSH list using python and the command line
+
+Example:
+```bash
+python3 filter_litvar.py -l litvar2_variants.txt.gz -r LitVar_1_RS.txt
+```
 
 ### GO-BP gene sets
 Download Gene Ontology - Biological Process data from: 
