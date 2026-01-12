@@ -82,4 +82,4 @@ fwrite(ortho, "path/to/gene_orthologs_MOD.txt", sep = "\t")
 ```bash
 python3 filter_human_gene.py -g gene_info.gz
 ```
-Alternatively, download on the main page: <b>gene_info_human.txt</b>
+Alternatively, download on the main page: <b>gene_info_human.zip</b>
