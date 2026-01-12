@@ -16,7 +16,7 @@ Download PT3 genes, variants, and relations from:
 
 Then filter according to your PMID list using python and the command line
 
-Example:
+<b>Example</b>
 ```bash
 python3 filter_pubtator.py -f gene2pubtator3.gz -p All_1_PMIDs.txt
 ```
@@ -25,7 +25,7 @@ python3 filter_pubtator.py -f gene2pubtator3.gz -p All_1_PMIDs.txt
 
 Then filter according to your MeSH list using python and the command line
 
-Example:
+<b>Example</b>
 ```bash
 python3 filter_relations.py -m mesh_terms.txt
 ```
@@ -37,7 +37,7 @@ Download LitVar 2.0 data from:
 
 Then filter according to your MeSH list using python and the command line
 
-Example:
+<b>Example</b>
 ```bash
 python3 filter_litvar.py -l litvar2_variants.txt.gz -r LitVar_1_RS.txt
 ```
