@@ -60,7 +60,7 @@ Download MeSH descriptors and Supplementary Concepts from:
 <b>https://nlmpubs.nlm.nih.gov/projects/mesh/MESH_FILES/xmlmesh/supp2025.gz</b>
 
 ### PMIDs
-1. Make sure eutils is downloade
+1. Make sure eutils is downloaded
 
 ```bash
 sudo apt install ncbi-entrez-direct
